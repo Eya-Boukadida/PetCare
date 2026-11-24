@@ -1,0 +1,2717 @@
+{
+"('dog'); const [id,setId]=useState('basics'); const [index,setIndex]=useState(0);\n const [progress,setProgress,storageError]=useLocalState": {
+"fr": "('dog'); const [id,setId]=useState('basics'); const [index,setIndex]=useState(0);\n const [progress,setProgress,storageError]=useLocalState",
+"en": "('dog'); const [id,setId]=useState('basics'); const [index,setIndex]=useState(0);\n const [progress,setProgress,storageError]=useLocalState",
+"ar": "('dog'); const [id,setId]=useState('basics'); const [index,setIndex]=useState(0);\n const [progress,setProgress,storageError]=useLocalState"
+},
+"('dogs');const [expanded,setExpanded]=useState": {
+"fr": "('dogs');const [expanded,setExpanded]=useState",
+"en": "('dogs');const [expanded,setExpanded]=useState",
+"ar": "('dogs');const [expanded,setExpanded]=useState"
+},
+"([]);const [more,setMore]=useState(false);const guide=content.care[species];return": {
+"fr": "([]);const [more,setMore]=useState(false);const guide=content.care[species];return",
+"en": "([]);const [more,setMore]=useState(false);const guide=content.care[species];return",
+"ar": "([]);const [more,setMore]=useState(false);const guide=content.care[species];return"
+},
+"(null);return": {
+"fr": "(null);return",
+"en": "(null);return",
+"ar": "(null);return"
+},
+"01 Observer": {
+"fr": "01 Observer",
+"en": "01 Observe",
+"ar": "01 الملاحظة"
+},
+"02 Prendre soin": {
+"fr": "02 Prendre soin",
+"en": "02 Care",
+"ar": "02 العناية"
+},
+"03 Célébrer": {
+"fr": "03 Célébrer",
+"en": "03 Celebrate",
+"ar": "03 الاحتفال"
+},
+"6 exercices": {
+"fr": "6 exercices",
+"en": "6 exercises",
+"ar": "6 تمارين"
+},
+"7 exercices": {
+"fr": "7 exercices",
+"en": "7 exercises",
+"ar": "7 تمارين"
+},
+"A calm, predictable place to nap helps dogs reset. Puppies and older dogs often need more downtime than their enthusiasm suggests.": {
+"fr": "Un endroit calme et prévisible pour faire la sieste aide les chiens à se ressourcer. Les chiots et les chiens âgés ont souvent besoin de plus de repos que leur enthousiasme ne le laisse penser.",
+"en": "A calm, predictable place to nap helps dogs reset. Puppies and older dogs often need more downtime than their enthusiasm suggests.",
+"ar": "يساعد المكان الهادئ والمألوف للقيلولة الكلاب على استعادة طاقتها. غالباً ما تحتاج الجراء والكلاب المسنة إلى وقت راحة أطول مما يوحي به حماسها."
+},
+"A covered bed, open carrier, or high perch gives cats a place to decompress. Never pull them from a hiding place unless safety requires it.": {
+"fr": "Un panier couvert, une cage de transport ouverte ou un perchoir en hauteur offrent aux chats un espace pour décompresser. Ne les sortez jamais de leur cachette, sauf en cas d'urgence de sécurité.",
+"en": "A covered bed, open carrier, or high perch gives cats a place to decompress. Never pull them from a hiding place unless safety requires it.",
+"ar": "يوفر السرير المغطى، أو صندوق النقل المفتوح، أو المجثم المرتفع مكاناً للقطط للاسترخاء. لا تسحبها أبداً من مخبئها إلا إذا تطلبت دواعي السلامة ذلك."
+},
+"A few short, prey-like play sessions can be more engaging than one long workout. End with a pause and let them feel successful.": {
+"fr": "Quelques courtes séances de jeu simulant la chasse peuvent être plus stimulantes qu'un long entraînement. Terminez par une pause et laissez-les savourer leur réussite.",
+"en": "A few short, prey-like play sessions can be more engaging than one long workout. End with a pause and let them feel successful.",
+"ar": "يمكن لبضع جلسات لعب قصيرة تحاكي الصيد أن تكون أكثر تشويقاً من تمرين واحد طويل. اختم الجلسة باستراحة ودع حيوانك يشعر بالإنجاز."
+},
+"A note from your future self": {
+"fr": "Un mot de votre futur vous",
+"en": "A note from your future self",
+"ar": "رسالة من ذاتك المستقبلية"
+},
+"A quick wash keeps everyday meals fresh.": {
+"fr": "Un nettoyage rapide permet de garder les repas du quotidien bien frais.",
+"en": "A quick wash keeps everyday meals fresh.",
+"ar": "غسيل سريع يحافظ على انتعاش الوجبات اليومية."
+},
+"A simple rhythm": {
+"fr": "Un rythme simple",
+"en": "A simple rhythm",
+"ar": "إيقاع بسيط"
+},
+"A slower sniff-led walk can be rich mental work. Follow their nose for a few minutes and notice where their energy naturally settles.": {
+"fr": "Une promenade plus lente guidée par le flair peut être un travail mental très enrichissant. Suivez sa truffe pendant quelques minutes et observez où son énergie s'apaise naturellement.",
+"en": "A slower sniff-led walk can be rich mental work. Follow their nose for a few minutes and notice where their energy naturally settles.",
+"ar": "يمكن لنزهة بطيئة يقودها الشم أن تكون تمريناً ذهنياً غنياً. اتبع حاسة شمه لبضع دقائق ولاحظ كيف يهدأ نشاطه بطبيعة الحال."
+},
+"A walk, a chase, a stretch, or a sunny perch can all count. Match the pace to your pet and make room for rest afterward.": {
+"fr": "Une promenade, une poursuite, un étirement ou une sieste au soleil : tout compte. Adaptez le rythme à votre animal et prévoyez un temps de repos ensuite.",
+"en": "A walk, a chase, a stretch, or a sunny perch can all count. Match the pace to your pet and make room for rest afterward.",
+"ar": "نزهة، أو مطاردة، أو تمطط، أو استرخاء تحت الشمس: كل ذلك مفيد. اضبط الوتيرة لتناسب حيوانك الأليف وافسح مجالاً للراحة بعدها."
+},
+"A walk, a chase, a stretch, or a sunny perch.": {
+"fr": "Une promenade, une poursuite, un étirement ou une sieste au soleil.",
+"en": "A walk, a chase, a stretch, or a sunny perch.",
+"ar": "نزهة، أو مطاردة، أو تمطط، أو استرخاء تحت الشمس."
+},
+"APPRENDRE ENSEMBLE": {
+"fr": "APPRENDRE ENSEMBLE",
+"en": "LEARN TOGETHER",
+"ar": "التعلم معاً"
+},
+"AU QUOTIDIEN": {
+"fr": "AU QUOTIDIEN",
+"en": "EVERYDAY",
+"ar": "في الحياة اليومية"
+},
+"Abaissez lentement la friandise verticalement entre les pattes avant, puis légèrement vers l’avant au ras du tapis.": {
+"fr": "Abaissez lentement la friandise verticalement entre les pattes avant, puis légèrement vers l’avant au ras du tapis.",
+"en": "Slowly lower the treat vertically between the front paws, then slightly forward along the mat.",
+"ar": "أنزل المكافأة ببطء وبشكل عمودي بين القائمتين الأماميتين، ثم حركها قليلاً إلى الأمام بمحاذاة البساط."
+},
+"About PetCare": {
+"fr": "À propos de PetCare",
+"en": "About PetCare",
+"ar": "حول PetCare"
+},
+"Accroupissez-vous ou reculez de deux petits pas. Ouvrez les bras à hauteur basse pour l’inviter à vous rejoindre.": {
+"fr": "Accroupissez-vous ou reculez de deux petits pas. Ouvrez les bras à hauteur basse pour l’inviter à vous rejoindre.",
+"en": "Crouch down or take two small steps back. Open your arms low to invite them to come to you.",
+"ar": "اقرفص أو تراجع خطوتين صغيرتين إلى الخلف. افتح ذراعيك بمستوى منخفض لدعوته للمجيء إليك."
+},
+"Accueil": {
+"fr": "Accueil",
+"en": "Home",
+"ar": "الرئيسية"
+},
+"Activité": {
+"fr": "Activité",
+"en": "Activity",
+"ar": "النشاط"
+},
+"Activité préférée": {
+"fr": "Activité préférée",
+"en": "Favorite activity",
+"ar": "النشاط المفضل"
+},
+"Agenouillez-vous de côté et présentez une friandise près du nez.": {
+"fr": "Agenouillez-vous de côté et présentez une friandise près du nez.",
+"en": "Kneel to the side and present a treat near the nose.",
+"ar": "اركع جانباً وقدم مكافأة بالقرب من أنفه."
+},
+"Ajouter le signal verbal": {
+"fr": "Ajouter le signal verbal",
+"en": "Add the verbal cue",
+"ar": "إضافة الإشارة اللفظية"
+},
+"Ajouter le signal « couché »": {
+"fr": "Ajouter le signal « couché »",
+"en": "Add the \"down\" cue",
+"ar": "إضافة إشارة «استلقِ»"
+},
+"Ajouter le signal « touche »": {
+"fr": "Ajouter le signal « touche »",
+"en": "Add the \"touch\" cue",
+"ar": "إضافة إشارة «المس»"
+},
+"Ajouter virages et changements de rythme": {
+"fr": "Ajouter virages et changements de rythme",
+"en": "Add turns and pace changes",
+"ar": "إضافة الانعطافات وتغييرات السرعة"
+},
+"Ajoutez quelques pas puis un virage lent à gauche. Gardez le chien à l’intérieur du virage et récompensez son alignement.": {
+"fr": "Ajoutez quelques pas puis un virage lent à gauche. Gardez le chien à l’intérieur du virage et récompensez son alignement.",
+"en": "Add a few steps, then a slow left turn. Keep the dog on the inside of the turn and reward their alignment.",
+"ar": "امشِ بضع خطوات ثم انعطف ببطء إلى اليسار. أبقِ الكلب داخل مسار الانعطاف وكافئه على بقائه بمحاذاتك."
+},
+"Ajoutez une couverture confortable et quelques friandises à l’intérieur.": {
+"fr": "Ajoutez une couverture confortable et quelques friandises à l’intérieur.",
+"en": "Add a cozy blanket and a few treats inside.",
+"ar": "أضف بطانية مريحة وبعض المكافآت بالداخل."
+},
+"Aller au contenu": {
+"fr": "Aller au contenu",
+"en": "Go to content",
+"ar": "الانتقال إلى المحتوى"
+},
+"Allongez d’abord la durée de quelques secondes. Une fois facile, reculez d’un seul petit pas en gardant la paume visible.": {
+"fr": "Allongez d’abord la durée de quelques secondes. Une fois facile, reculez d’un seul petit pas en gardant la paume visible.",
+"en": "First, increase the duration by a few seconds. Once easy, take just one small step back while keeping your palm visible.",
+"ar": "زِد المدة أولاً لبضع ثوانٍ. وعندما يصبح الأمر سهلاً، تراجع خطوة صغيرة واحدة مع إبقاء راحة يدك مرئية."
+},
+"Allongez la durée très progressivement.": {
+"fr": "Allongez la durée très progressivement.",
+"en": "Increase the duration very gradually.",
+"ar": "زِد المدة تدريجيًا وببطء شديد."
+},
+"Alternez de petites réussites et des pauses, puis terminez avant que votre chien ne se fatigue.": {
+"fr": "Alternez de petites réussites et des pauses, puis terminez avant que votre chien ne se fatigue.",
+"en": "Alternate small successes with breaks, then finish before your dog gets tired.",
+"ar": "بدّل بين النجاحات الصغيرة وفترات الراحة، ثم أنهِ الجلسة قبل أن يتعب كلبك."
+},
+"Amorcer l’assise": {
+"fr": "Amorcer l’assise",
+"en": "Initiate the sit",
+"ar": "بدء وضعية الجلوس"
+},
+"Annuler": {
+"fr": "Annuler",
+"en": "Cancel",
+"ar": "إلغاء"
+},
+"Appeler à très courte distance": {
+"fr": "Appeler à très courte distance",
+"en": "Call from a very short distance",
+"ar": "المناداة من مسافة قريبة جداً"
+},
+"Appelez depuis une courte distance. Dès que le chat vous rejoint, donnez une petite friandise à hauteur de son museau.": {
+"fr": "Appelez depuis une courte distance. Dès que le chat vous rejoint, donnez une petite friandise à hauteur de son museau.",
+"en": "Call from a short distance. As soon as the cat reaches you, offer a small treat at nose level.",
+"ar": "نادِ من مسافة قصيرة. وبمجرد أن يقترب القط منك، قدّم له مكافأة صغيرة على مستوى أنفه."
+},
+"Appelez ensuite depuis l’entrée de la pièce voisine. Augmentez la distance seulement si les retours restent volontaires.": {
+"fr": "Appelez ensuite depuis l’entrée de la pièce voisine. Augmentez la distance seulement si les retours restent volontaires.",
+"en": "Then call from the doorway of the next room. Only increase the distance if returns remain eager and voluntary.",
+"ar": "بعد ذلك، نادِ من مدخل الغرفة المجاورة. ولا تزد المسافة إلا إذا استمر بالمجيء طوعاً وبحماس."
+},
+"Appelez sans montrer la friandise. À son arrivée, récompensez avec une friandise ou un bref jeu à la canne à pêche.": {
+"fr": "Appelez sans montrer la friandise. À son arrivée, récompensez avec une friandise ou un bref jeu à la canne à pêche.",
+"en": "Call without showing the treat. When they arrive, reward with a treat or a brief game with a wand toy.",
+"ar": "نادِ دون إظهار المكافأة. وعند وصوله، كافئه بمكافأة خفيفة أو بلعب قصير بعصا الريش."
+},
+"Appetite is useful information.": {
+"fr": "L’appétit est une information utile.",
+"en": "Appetite is useful information.",
+"ar": "الشهية معلومة مفيدة ومهمة."
+},
+"Apprendre avec douceur": {
+"fr": "Apprendre avec douceur",
+"en": "Learn gently",
+"ar": "التعلّم بلطف"
+},
+"Apprendre à se poser confortablement sur son tapis.": {
+"fr": "Apprendre à se poser confortablement sur son tapis.",
+"en": "Learn to settle comfortably on their mat.",
+"ar": "التعلّم على الاستقرار براحة على بساطه."
+},
+"Apprentissage par renforcement positif ·": {
+"fr": "Apprentissage par renforcement positif ·",
+"en": "Positive reinforcement learning ·",
+"ar": "التعلّم بالتعزيز الإيجابي ·"
+},
+"Approcher l’entrée en suivant la cible.": {
+"fr": "Approcher l’entrée en suivant la cible.",
+"en": "Approach the entrance by following the target.",
+"ar": "الاقتراب من المدخل باتباع الهدف التدريبي."
+},
+"Approcher une patte de la paume ouverte.": {
+"fr": "Approcher une patte de la paume ouverte.",
+"en": "Bring a paw close to the open palm.",
+"ar": "تقريب كف القدم من راحة اليد المفتوحة."
+},
+"Arrêtez-vous brièvement pour donner la friandise au niveau de votre jambe gauche. Le chien reste à côté, sans croiser devant vous.": {
+"fr": "Arrêtez-vous brièvement pour donner la friandise au niveau de votre jambe gauche. Le chien reste à côté, sans croiser devant vous.",
+"en": "Pause briefly to give the treat at your left leg. The dog stays beside you without crossing in front.",
+"ar": "توقف برهة لتقديم المكافأة بمحاذاة ساقك اليسرى. يجب أن يبقى الكلب بجانبك دون أن يعترض طريقك من الأمام."
+},
+"Asseyez le chien et présentez un poing fermé contenant une friandise, près du sol. Laissez-le explorer sans saisir sa patte.": {
+"fr": "Asseyez le chien et présentez un poing fermé contenant une friandise, près du sol. Laissez-le explorer sans saisir sa patte.",
+"en": "Sit the dog and present a closed fist with a treat near the ground. Let them explore without grabbing their paw.",
+"ar": "اجعل الكلب يجلس وقدّم له قبضة مغلقة تحتوي على مكافأة بالقرب من الأرض. دعه يستكشف دون الإمساك بكفه."
+},
+"Assis": {
+"fr": "Assis",
+"en": "Sit",
+"ar": "اجلس"
+},
+"Assis de nouveau, pattes avant stables et tête proche de la main.": {
+"fr": "Assis de nouveau, pattes avant stables et tête proche de la main.",
+"en": "Sitting again, front paws steady and head close to the hand.",
+"ar": "في وضعية الجلوس مجدداً، مع ثبات القائمتين الأماميتين ورأس قريب من اليد."
+},
+"Assis stable, une seule patte levée sans basculer le corps.": {
+"fr": "Assis stable, une seule patte levée sans basculer le corps.",
+"en": "Steady sit, lifting only one paw without shifting the body.",
+"ar": "جلوس مستقر، مع رفع كف واحد دون إمالة الجسم."
+},
+"Assis, cou abaissé, nez dirigé entre les pattes avant.": {
+"fr": "Assis, cou abaissé, nez dirigé entre les pattes avant.",
+"en": "Sitting, neck lowered, nose pointed between the front paws.",
+"ar": "في وضعية الجلوس، مع خفض الرقبة وتوجيه الأنف بين القائمتين الأماميتين."
+},
+"Assis, pattes avant stables, regard vers la main vide.": {
+"fr": "Assis, pattes avant stables, regard vers la main vide.",
+"en": "Sitting, front paws steady, looking toward the empty hand.",
+"ar": "في وضعية الجلوس، مع ثبات القائمتين الأماميتين وتوجيه النظر نحو اليد الفارغة."
+},
+"Assise stable, poitrine droite et regard vers la main vide.": {
+"fr": "Assise stable, poitrine droite et regard vers la main vide.",
+"en": "Steady sit, upright chest, and eyes on the empty hand.",
+"ar": "جلوس مستقر، مع صدر مستقيم ونظرة موجهة نحو اليد الفارغة."
+},
+"Associer le clic à une friandise": {
+"fr": "Associer le clic à une friandise",
+"en": "Pair the click with a treat",
+"ar": "ربط صوت النقر بالمكافأة"
+},
+"Associer le clic à une friandise donnée aussitôt.": {
+"fr": "Associer le clic à une friandise donnée aussitôt.",
+"en": "Pair the click with a treat given immediately.",
+"ar": "ربط صوت النقر بمكافأة تُقدَّم على الفور."
+},
+"Associer le mot « tape-là »": {
+"fr": "Associer le mot « tape-là »",
+"en": "Pair the cue “high five”",
+"ar": "ربط التدريب بعبارة «كفك»"
+},
+"Attendez qu’il regarde votre main sans sauter.": {
+"fr": "Attendez qu’il regarde votre main sans sauter.",
+"en": "Wait for them to look at your hand without jumping.",
+"ar": "انتظر حتى ينظر إلى يدك دون أن يقفز."
+},
+"Attendez qu’il renifle ou avance vers la cible. Cliquez et récompensez cette approche, même avant le premier contact.": {
+"fr": "Attendez qu’il renifle ou avance vers la cible. Cliquez et récompensez cette approche, même avant le premier contact.",
+"en": "Wait for them to sniff or move toward the target. Click and reward this approach, even before the first touch.",
+"ar": "انتظر حتى يشم الهدف أو يتقدم نحوه. انقر بالمكافأة وكافئه على هذا الاقتراب، حتى قبل أول لمسة."
+},
+"Attendez un comportement facile, par exemple regarder votre main. Cliquez à cet instant précis puis récompensez.": {
+"fr": "Attendez un comportement facile, par exemple regarder votre main. Cliquez à cet instant précis puis récompensez.",
+"en": "Wait for an easy behavior, like looking at your hand. Click at that exact moment, then reward.",
+"ar": "انتظر سلوكاً سهلاً، مثل النظر إلى يدك. انقر في تلك اللحظة بالذات ثم قدّم المكافأة."
+},
+"Attendez un comportement souhaité. Dites « oui » avec une voix joyeuse ou cliquez une seule fois, puis donnez la friandise dans la seconde.": {
+"fr": "Attendez un comportement souhaité. Dites « oui » avec une voix joyeuse ou cliquez une seule fois, puis donnez la friandise dans la seconde.",
+"en": "Wait for a desired behavior. Say “yes” in a cheerful voice or click once, then give the treat within a second.",
+"ar": "انتظر ظهور السلوك المطلوب. قل «نعم» بنبرة مرحة أو انقر نقرة واحدة، ثم قدّم المكافأة في غضون ثانية."
+},
+"Attendez une seconde sans bouger, puis dites « oui » et récompensez à hauteur du nez pendant que le chien reste assis.": {
+"fr": "Attendez une seconde sans bouger, puis dites « oui » et récompensez à hauteur du nez pendant que le chien reste assis.",
+"en": "Wait a second without moving, then say “yes” and reward at nose level while the dog remains seated.",
+"ar": "انتظر ثانية دون حركة، ثم قل «نعم» وكافئه عند مستوى أنفه بينما يظل الكلب جالساً."
+},
+"Attendre calmement jusqu’au signal de libération.": {
+"fr": "Attendre calmement jusqu’au signal de libération.",
+"en": "Wait calmly until the release cue.",
+"ar": "الانتظار بهدوء حتى إشارة التحرير."
+},
+"Attendre le contact du nez": {
+"fr": "Attendre le contact du nez",
+"en": "Wait for nose contact",
+"ar": "انتظار لمسة الأنف"
+},
+"Attirer le regard vers le haut": {
+"fr": "Attirer le regard vers le haut",
+"en": "Draw the gaze upward",
+"ar": "لفت الأنظار إلى الأعلى"
+},
+"Au pied": {
+"fr": "Au pied",
+"en": "Heel",
+"ar": "بجانبي"
+},
+"Au quotidien": {
+"fr": "Au quotidien",
+"en": "Every day",
+"ar": "يومياً"
+},
+"Augmenter doucement la distance": {
+"fr": "Augmenter doucement la distance",
+"en": "Gently increase the distance",
+"ar": "زيادة المسافة بلطف"
+},
+"Augmenter la distance progressivement": {
+"fr": "Augmenter la distance progressivement",
+"en": "Gradually increase the distance",
+"ar": "زيادة المسافة تدريجياً"
+},
+"Augmenter progressivement la durée": {
+"fr": "Augmenter progressivement la durée",
+"en": "Gradually increase the duration",
+"ar": "زيادة المدة تدريجياً"
+},
+"Augmentez la distance seulement si les retours restent volontaires.": {
+"fr": "Augmentez la distance seulement si les retours restent volontaires.",
+"en": "Increase the distance only if the returns remain willing and enthusiastic.",
+"ar": "زِد المسافة فقط إذا كانت العودة طوعية ومتحمسة."
+},
+"Augmentez progressivement la distance, puis pratiquez dans un jardin sécurisé. Utilisez une longe détendue dehors.": {
+"fr": "Augmentez progressivement la distance, puis pratiquez dans un jardin sécurisé. Utilisez une longe détendue dehors.",
+"en": "Gradually increase the distance, then practice in a secure yard. Use a loose long line outdoors.",
+"ar": "زِد المسافة تدريجياً، ثم تدرّب في حديقة آمنة. واستخدم حبلاً طويلاً مرتخياً في الهواء الطلق."
+},
+"Avancer ou étirer le nez vers la cible.": {
+"fr": "Avancer ou étirer le nez vers la cible.",
+"en": "Move forward or stretch the nose toward the target.",
+"ar": "التقدم أو مدّ الأنف نحو الهدف."
+},
+"Avancez de deux ou trois petits pas. Gardez la main près de la hanche et félicitez le chien quand son épaule suit votre jambe.": {
+"fr": "Avancez de deux ou trois petits pas. Gardez la main près de la hanche et félicitez le chien quand son épaule suit votre jambe.",
+"en": "Take two or three small steps forward. Keep your hand near your hip and praise the dog as their shoulder stays aligned with your leg.",
+"ar": "تقدّم خطوتين أو ثلاث خطوات صغيرة. أَبقِ يدك قريبة من خصرك وامدح الكلب عندما يوازي كتفه ساقك."
+},
+"Avancé": {
+"fr": "Avancé",
+"en": "Advanced",
+"ar": "متقدم"
+},
+"Avant de commencer": {
+"fr": "Avant de commencer",
+"en": "Before you begin",
+"ar": "قبل البدء"
+},
+"Baisser la tête entre les pattes avant.": {
+"fr": "Baisser la tête entre les pattes avant.",
+"en": "Lower the head between the front paws.",
+"ar": "خفض الرأس بين القائمتين الأماميتين."
+},
+"Bassin à quelques centimètres du sol, pattes arrière pliées, avant stables.": {
+"fr": "Bassin à quelques centimètres du sol, pattes arrière pliées, avant stables.",
+"en": "Pelvis a few centimeters off the ground, back legs folded, front steady.",
+"ar": "الحوض على بعد بضعة سنتيمترات من الأرض، والقائمتان الخلفيتان مثنيتان، مع ثبات القائمتين الأماميتين."
+},
+"Beaucoup d’amour.": {
+"fr": "Beaucoup d’amour.",
+"en": "Lots of love.",
+"ar": "الكثير من الحب."
+},
+"Big hearts need room to move.": {
+"fr": "Les grands cœurs ont besoin d’espace pour bouger.",
+"en": "Big hearts need room to move.",
+"ar": "القلوب الكبيرة تحتاج مساحة لتتحرك."
+},
+"Bravo ! Profitez maintenant du reste de la journée.": {
+"fr": "Bravo ! Profitez maintenant du reste de la journée.",
+"en": "Well done! Now enjoy the rest of your day.",
+"ar": "أحسنت! استمتع الآن ببقية يومك."
+},
+"Bravo à vous deux ! Toutes les étapes sont validées.": {
+"fr": "Bravo à vous deux ! Toutes les étapes sont validées.",
+"en": "Well done to both of you! All steps completed.",
+"ar": "أحسنتما معاً! لقد تم إنجاز جميع الخطوات بنجاح."
+},
+"Brush, check paws, or give a gentle hello.": {
+"fr": "Brossez, vérifiez les pattes ou dites un petit bonjour tout doux.",
+"en": "Brush, check paws, or give a gentle hello.",
+"ar": "قم بالتمشيط، أو افحص الكفوف، أو ألقِ تحية لطيفة."
+},
+"CHAT": {
+"fr": "CHAT",
+"en": "CAT",
+"ar": "قط"
+},
+"CHIEN": {
+"fr": "CHIEN",
+"en": "DOG",
+"ar": "كلب"
+},
+"Calculer": {
+"fr": "Calculer",
+"en": "Calculate",
+"ar": "احسب"
+},
+"Calculer son âge": {
+"fr": "Calculer son âge",
+"en": "Calculate their age",
+"ar": "حساب العمر"
+},
+"Capturer une assise naturelle": {
+"fr": "Capturer une assise naturelle",
+"en": "Capture a natural sit",
+"ar": "التقاط وضعية الجلوس الطبيعية"
+},
+"Cats are masters of the quiet update. Their appetite, litter habits, coat, and preferred hiding spots can tell a thoughtful story.": {
+"fr": "Les chats sont les maîtres des changements discrets. Leur appétit, leurs habitudes de litière, leur pelage et leurs cachettes préférées en disent long.",
+"en": "Cats are masters of the quiet update. Their appetite, litter habits, coat, and preferred hiding spots can tell a thoughtful story.",
+"ar": "القطط بارعة في إظهار التغييرات بهدوء. يمكن لشهيتها، وعادات صندوق الفضلات، وفرائها، وأماكن اختبائها المفضلة أن تكشف الكثير."
+},
+"Cats benefit from fresh water, thoughtful play, a clean litter area, gentle grooming, and quiet places to rest. A change that lasts is a good reason to ask your veterinarian.": {
+"fr": "Les chats ont besoin d’eau fraîche, de jeux stimulants, d’une litière propre, d’un brossage délicat et d’endroits calmes pour se reposer. Un changement persistant est une bonne raison de consulter votre vétérinaire.",
+"en": "Cats benefit from fresh water, thoughtful play, a clean litter area, gentle grooming, and quiet places to rest. A change that lasts is a good reason to ask your veterinarian.",
+"ar": "تستفيد القطط من الماء العذب، واللعب الهادف، وصندوق الفضلات النظيف، والعناية اللطيفة بالفراء، والأماكن الهادئة للراحة. وأي تغيير مستمر يستدعي استشارة الطبيب البيطري."
+},
+"Ce mot marque clairement la fin.": {
+"fr": "Ce mot marque clairement la fin.",
+"en": "This word clearly marks the end.",
+"ar": "تحدد هذه الكلمة النهاية بوضوح."
+},
+"Ce que votre animal doit faire": {
+"fr": "Ce que votre animal doit faire",
+"en": "What your pet needs to do",
+"ar": "ما يجب على حيوانك الأليف فعله"
+},
+"Changes in frequency, effort, or appearance can be meaningful. Keep the box clean and contact your vet promptly if a change persists.": {
+"fr": "Les changements de fréquence, d’effort ou d’aspect peuvent être révélateurs. Gardez le bac propre et contactez rapidement votre vétérinaire si un changement persiste.",
+"en": "Changes in frequency, effort, or appearance can be meaningful. Keep the box clean and contact your vet promptly if a change persists.",
+"ar": "قد تحمل التغيرات في وتيرة التبرز، أو المجهود المبذول، أو المظهر دلالات هامة. حافظ على نظافة الصندوق وتواصل مع الطبيب البيطري دون تأخير إذا استمر التغيير."
+},
+"Chat": {
+"fr": "Chat",
+"en": "Cat",
+"ar": "قط"
+},
+"Chats": {
+"fr": "Chats",
+"en": "Cats",
+"ar": "قطط"
+},
+"Check your pet's health": {
+"fr": "Vérifier la santé de votre animal",
+"en": "Check your pet's health",
+"ar": "فحص صحة حيوانك الأليف"
+},
+"Chien": {
+"fr": "Chien",
+"en": "Dog",
+"ar": "كلب"
+},
+"Chiens": {
+"fr": "Chiens",
+"en": "Dogs",
+"ar": "كلاب"
+},
+"Choisir un animal": {
+"fr": "Choisir un animal",
+"en": "Choose a pet",
+"ar": "اختيار حيوان أليف"
+},
+"Choisir un endroit sans distraction": {
+"fr": "Choisir un endroit sans distraction",
+"en": "Choose a distraction-free place",
+"ar": "اختيار مكان خالٍ من المشتتات"
+},
+"Choisir un moment calme": {
+"fr": "Choisir un moment calme",
+"en": "Choose a quiet moment",
+"ar": "اختيار وقت هادئ"
+},
+"Choisir un signal toujours identique": {
+"fr": "Choisir un signal toujours identique",
+"en": "Choose a consistent cue",
+"ar": "اختيار إشارة متطابقة دائماً"
+},
+"Choisir une étape": {
+"fr": "Choisir une étape",
+"en": "Choose a step",
+"ar": "اختيار خطوة"
+},
+"Choisissez un moment calme avant un repas habituel, sans priver votre chat de nourriture. Préparez de minuscules friandises appréciées.": {
+"fr": "Choisissez un moment calme avant un repas habituel, sans priver votre chat de nourriture. Préparez de minuscules friandises appréciées.",
+"en": "Choose a quiet moment before a regular meal, without depriving your cat of food. Prepare tiny, high-value treats.",
+"ar": "اختر وقتاً هادئاً قبل الوجبة المعتادة، دون حرمان قطتك من الطعام. جهّز مكافآت صغيرة جداً ومحببة لديها."
+},
+"Choisissez un signal réservé au rappel : son nom suivi de « viens » ou le bruit d’un sachet. Utilisez toujours le même son.": {
+"fr": "Choisissez un signal réservé au rappel : son nom suivi de « viens » ou le bruit d’un sachet. Utilisez toujours le même son.",
+"en": "Choose a dedicated recall cue: their name followed by \"come\" or the sound of a treat bag. Always use the same sound.",
+"ar": "اختر إشارة مخصصة للنداء: اسمه متبوعاً بكلمة «تعال» أو صوت حفيف الكيس. استخدم دائماً الصوت نفسه."
+},
+"Clean the food bowl": {
+"fr": "Nettoyer la gamelle de nourriture",
+"en": "Clean the food bowl",
+"ar": "تنظيف وعاء الطعام"
+},
+"Cliquez au contact et récompensez.": {
+"fr": "Cliquez au contact et récompensez.",
+"en": "Click upon contact and reward.",
+"ar": "اضغط على الكليكر عند الملامسة وقدّم المكافأة."
+},
+"Cliquez au contact puis récompensez.": {
+"fr": "Cliquez au contact puis récompensez.",
+"en": "Click upon contact, then reward.",
+"ar": "اضغط على الكليكر عند الملامسة ثم قدّم المكافأة."
+},
+"Cliquez au moment exact où le nez touche doucement son extrémité, puis donnez une friandise.": {
+"fr": "Cliquez au moment exact où le nez touche doucement son extrémité, puis donnez une friandise.",
+"en": "Click the exact moment the nose gently touches the tip, then give a treat.",
+"ar": "اضغط على الكليكر في اللحظة المحددة التي يلمس فيها الأنف الطرف برفق، ثم قدّم مكافأة."
+},
+"Cliquez dès qu’une patte se lève ou touche la main, puis récompensez.": {
+"fr": "Cliquez dès qu’une patte se lève ou touche la main, puis récompensez.",
+"en": "Click as soon as a paw lifts or touches your hand, then reward.",
+"ar": "اضغط على الكليكر بمجرد أن يرفع كفه أو يلمس يدك، ثم قدّم المكافأة."
+},
+"Cliquez et récompensez cette approche, même avant le premier contact.": {
+"fr": "Cliquez et récompensez cette approche, même avant le premier contact.",
+"en": "Click and reward this approach, even before the first contact.",
+"ar": "اضغط على الكليكر وكافئ هذا الاقتراب، حتى قبل حدوث التلامس الأول."
+},
+"Cliquez et récompensez, sans bloquer la sortie.": {
+"fr": "Cliquez et récompensez, sans bloquer la sortie.",
+"en": "Click and reward, without blocking the exit.",
+"ar": "اضغط على الكليكر وقدّم المكافأة، دون إعاقة المخرج."
+},
+"Cliquez à cet instant précis puis récompensez.": {
+"fr": "Cliquez à cet instant précis puis récompensez.",
+"en": "Click at that precise moment, then reward.",
+"ar": "اضغط على الكليكر في تلك اللحظة بالذات ثم قدّم المكافأة."
+},
+"Commencer en position assise": {
+"fr": "Commencer en position assise",
+"en": "Start in a seated position",
+"ar": "البدء في وضعية الجلوس"
+},
+"Conserver l’assise malgré le petit pas de recul.": {
+"fr": "Conserver l’assise malgré le petit pas de recul.",
+"en": "Maintain the sit despite taking a small step back.",
+"ar": "الحفاظ على وضعية الجلوس رغم التراجع خطوة صغيرة إلى الوراء."
+},
+"Corps avancé, une patte avant en mouvement, nez encore séparé de la cible.": {
+"fr": "Corps avancé, une patte avant en mouvement, nez encore séparé de la cible.",
+"en": "Body forward, one front paw moving, nose not yet touching the target.",
+"ar": "الجسم متقدم إلى الأمام، إحدى القائمتين الأماميتين تتحرك، والأنف لم يلمس الهدف بعد."
+},
+"Corps dirigé vers vous, tête libre et aucune tension sur la longe.": {
+"fr": "Corps dirigé vers vous, tête libre et aucune tension sur la longe.",
+"en": "Body turned toward you, head free, and no tension on the long line.",
+"ar": "الجسم متجه نحوك، الرأس حر ودون أي شد على حبل التدريب الطويل."
+},
+"Corps détendu, caisse stable et suffisamment grande pour se retourner.": {
+"fr": "Corps détendu, caisse stable et suffisamment grande pour se retourner.",
+"en": "Relaxed body, carrier stable and spacious enough to turn around.",
+"ar": "جسم مسترخٍ، وحقيبة تنقل ثابتة وكبيرة بما يكفي ليتمكن من الالتفاف."
+},
+"Corps en marche, cible à hauteur du museau devant le chat.": {
+"fr": "Corps en marche, cible à hauteur du museau devant le chat.",
+"en": "Body in motion, target at nose level in front of the cat.",
+"ar": "الجسم في حركة، والهدف عند مستوى الأنف أمام القطة."
+},
+"Corps souple, oreilles naturelles, possibilité de se détourner ou de partir.": {
+"fr": "Corps souple, oreilles naturelles, possibilité de se détourner ou de partir.",
+"en": "Supple body, natural ear position, and the freedom to turn away or leave.",
+"ar": "جسم مرن، وأذنان في وضع طبيعي، مع حرية الابتعاد أو المغادرة."
+},
+"Couché": {
+"fr": "Couché",
+"en": "Down",
+"ar": "استلقاء"
+},
+"Dans une pièce sans distraction, placez-vous à courte distance. Dites son nom suivi de « viens » avec une voix chaleureuse.": {
+"fr": "Dans une pièce sans distraction, placez-vous à courte distance. Dites son nom suivi de « viens » avec une voix chaleureuse.",
+"en": "In a distraction-free room, stand a short distance away. Say their name followed by “come” in a warm tone.",
+"ar": "في غرفة خالية من المشتتات، قف على مسافة قصيرة. انادِ باسمه متبوعاً بكلمة «تعال» بنبرة دافئة."
+},
+"Debout, nez au contact léger de l’extrémité de la cible.": {
+"fr": "Debout, nez au contact léger de l’extrémité de la cible.",
+"en": "Standing, nose lightly touching the tip of the target.",
+"ar": "واقف، مع ملامسة خفيفة بأنفه لطرف الهدف."
+},
+"Debout, quatre pattes au sol et un espace visible entre nez et cible.": {
+"fr": "Debout, quatre pattes au sol et un espace visible entre nez et cible.",
+"en": "Standing, all four paws on the floor, with a clear gap between nose and target.",
+"ar": "واقف، وقوائمه الأربع على الأرض مع وجود مسافة واضحة بين الأنف والهدف."
+},
+"Demander la position assise": {
+"fr": "Demander la position assise",
+"en": "Ask for a sit",
+"ar": "طلب وضعية الجلوس"
+},
+"Demandez une assise confortable sur un tapis antidérapant. Agenouillez-vous de côté et présentez une friandise près du nez.": {
+"fr": "Demandez une assise confortable sur un tapis antidérapant. Agenouillez-vous de côté et présentez une friandise près du nez.",
+"en": "Ask for a comfortable sit on a non-slip mat. Kneel to the side and hold a treat close to their nose.",
+"ar": "اطلب منه الجلوس بشكل مريح على بساط مانع للانزلاق. انحنِ بجانبه وقدم مكافأة بالقرب من أنفه."
+},
+"Demandez « assis ». Tenez-vous face au chien, présentez une paume verticale et dites « reste » une seule fois.": {
+"fr": "Demandez « assis ». Tenez-vous face au chien, présentez une paume verticale et dites « reste » une seule fois.",
+"en": "Ask for a “sit.” Face the dog, show an open upright palm, and say “stay” just once.",
+"ar": "اطلب «اجلس». قف في مواجهة الكلب، واعرض راحة يدك للأعلى وقل «ابقَ» مرة واحدة فقط."
+},
+"Des gestes simples, des récompenses et le plaisir de progresser à deux.": {
+"fr": "Des gestes simples, des récompenses et le plaisir de progresser à deux.",
+"en": "Simple gestures, rewards, and the joy of learning together.",
+"ar": "حركات بسيطة، ومكافآت، ومتعة التقدم معاً."
+},
+"Deux coudes au sol, poitrine basse, pattes avant vers l’avant.": {
+"fr": "Deux coudes au sol, poitrine basse, pattes avant vers l’avant.",
+"en": "Both elbows on the floor, chest low, front paws stretched forward.",
+"ar": "المرفقان على الأرض، والصدر منخفض، والقائمتان الأماميتان ممتدتان للأمام."
+},
+"Dites son nom suivi de « viens » avec une voix chaleureuse.": {
+"fr": "Dites son nom suivi de « viens » avec une voix chaleureuse.",
+"en": "Say their name followed by “come” in a warm tone.",
+"ar": "انادِ باسمه متبوعاً بكلمة «تعال» بنبرة دافئة."
+},
+"Dites « assis » juste avant l’assise devenue prévisible. Gardez une main ouverte ou vide et récompensez avec l’autre.": {
+"fr": "Dites « assis » juste avant l’assise devenue prévisible. Gardez une main ouverte ou vide et récompensez avec l’autre.",
+"en": "Say “sit” just before the sit becomes predictable. Keep one hand open or empty and reward with the other.",
+"ar": "قل «اجلس» قبل اتخاذه لوضعية الجلوس المتوقعة مباشرةً. أبقِ إحدى يديك مفتوحة أو فارغة وكافئه بالأخرى."
+},
+"Dites « libre » ou « OK », abaissez la main et invitez le chien à quitter le tapis. Ce mot marque clairement la fin.": {
+"fr": "Dites « libre » ou « OK », abaissez la main et invitez le chien à quitter le tapis. Ce mot marque clairement la fin.",
+"en": "Say “release” or “OK,” lower your hand, and invite the dog to step off the mat. This word clearly marks the end.",
+"ar": "قل «انطلق» أو «حسناً»، وأخفِض يدك وادعُ الكلب لمغادرة البساط. تشير هذه الكلمة بوضوح إلى نهاية التمرين."
+},
+"Dites « oui » avec une voix joyeuse ou cliquez une seule fois, puis donnez la friandise dans la seconde.": {
+"fr": "Dites « oui » avec une voix joyeuse ou cliquez une seule fois, puis donnez la friandise dans la seconde.",
+"en": "Say “yes” in a cheerful voice or click once, then deliver the treat within a second.",
+"ar": "قل «نعم» بنبرة مرحة أو اضغط على أداة النقر مرة واحدة، ثم قدم المكافأة خلال ثانية."
+},
+"Dogs tell us a lot through pace, posture, appetite, and play. Give their patterns a little attention and the rest gets easier.": {
+"fr": "Dogs tell us a lot through pace, posture, appetite, and play. Give their patterns a little attention and the rest gets easier.",
+"en": "Dogs tell us a lot through pace, posture, appetite, and play. Give their patterns a little attention and the rest gets easier.",
+"ar": "تخبرنا الكلاب بالكثير من خلال حركتها، ووقفتها، وشهيتها، ولعبها. انتبه قليلاً لأنماط سلوكها وسيصبح كل شيء أسهل."
+},
+"Dogs thrive with balanced food, daily movement, regular grooming, patient training, and routine health checks. For medical concerns, your veterinarian is always the right next conversation.": {
+"fr": "Dogs thrive with balanced food, daily movement, regular grooming, patient training, and routine health checks. For medical concerns, your veterinarian is always the right next conversation.",
+"en": "Dogs thrive with balanced food, daily movement, regular grooming, patient training, and routine health checks. For medical concerns, your veterinarian is always the right next conversation.",
+"ar": "تزدهر الكلاب مع الغذاء المتوازن، والحركة اليومية، والعناية المنتظمة، والتدريب الصبور، والفحوصات الطبية الدورية. ولأية استفسارات طبية، يبقى طبيبك البيطري دائماً وجهتك الصحيحة."
+},
+"Dès l’assise, donnez une friandise prise dans votre poche ou dans l’autre main.": {
+"fr": "Dès l’assise, donnez une friandise prise dans votre poche ou dans l’autre main.",
+"en": "As soon as they sit, offer a treat from your pocket or the other hand.",
+"ar": "بمجرد جلوسه، قدم له مكافأة من جيبك أو من يدك الأخرى."
+},
+"Dès que le chat vous rejoint, donnez une petite friandise à hauteur de son museau.": {
+"fr": "Dès que le chat vous rejoint, donnez une petite friandise à hauteur de son museau.",
+"en": "As soon as the cat reaches you, offer a small treat at nose level.",
+"ar": "بمجرد أن تصل القطة إليك، قدم لها مكافأة صغيرة عند مستوى أنفها."
+},
+"Dès que les deux coudes touchent le tapis, dites « oui » et donnez la friandise près du sol pour conserver la position.": {
+"fr": "Dès que les deux coudes touchent le tapis, dites « oui » et donnez la friandise près du sol pour conserver la position.",
+"en": "As soon as both elbows touch the mat, say “yes” and offer the treat close to the floor to maintain the position.",
+"ar": "بمجرد أن يلامس المرفقان البساط، قل «نعم» وقدم المكافأة قريباً من الأرض للحفاظ على هذه الوضعية."
+},
+"Dès que les fesses sont au sol, cliquez puis donnez la récompense, sans manipuler le chat.": {
+"fr": "Dès que les fesses sont au sol, cliquez puis donnez la récompense, sans manipuler le chat.",
+"en": "As soon as their rear touches the floor, click and give the reward, without physically moving the cat.",
+"ar": "بمجرد أن يلامس الجزء الخلفي الأرض، اضغط على أداة النقر ثم قدم المكافأة دون لمس القطة أو تحريكها."
+},
+"Dès que les fesses touchent le sol, dites « oui » et récompensez. Quand l’assise est régulière, ajoutez « assis » juste avant le mouvement.": {
+"fr": "Dès que les fesses touchent le sol, dites « oui » et récompensez. Quand l’assise est régulière, ajoutez « assis » juste avant le mouvement.",
+"en": "As soon as the rear touches the floor, say “yes” and reward. Once the sit is consistent, add “sit” right before the movement.",
+"ar": "بمجرد ملامسة الجزء الخلفي للأرض، قل «نعم» وكافئ الكلب. وعندما يصبح الجلوس منتظماً، أضف كلمة «اجلس» قبل الحركة مباشرةً."
+},
+"Dès qu’une patte touche le poing, dites « oui ». Ouvrez la main pour récompenser immédiatement ce premier mouvement.": {
+"fr": "Dès qu’une patte touche le poing, dites « oui ». Ouvrez la main pour récompenser immédiatement ce premier mouvement.",
+"en": "As soon as a paw touches your fist, say “yes.” Open your hand to reward this first movement right away.",
+"ar": "بمجرد أن تلامس كف قدمه قبضتك، قل «نعم». افتح يدك لمكافأة هذه الحركة الأولى على الفور."
+},
+"Débutant": {
+"fr": "Débutant",
+"en": "Beginner",
+"ar": "مبتدئ"
+},
+"Déduisez les friandises de la ration quotidienne et terminez sur une petite réussite.": {
+"fr": "Déduisez les friandises de la ration quotidienne et terminez sur une petite réussite.",
+"en": "Deduct treats from the daily food portion and end on a positive note.",
+"ar": "احسم كمية المكافآت من الحصة الغذائية اليومية، واختتم التدريب بنجاح بسيط."
+},
+"Déplacez-la lentement sans toucher le chat.": {
+"fr": "Déplacez-la lentement sans toucher le chat.",
+"en": "Move it slowly without touching the cat.",
+"ar": "حرّكها ببطء دون لمس القطة."
+},
+"Déplacez-la légèrement vers l’arrière, sans toucher la tête.": {
+"fr": "Déplacez-la légèrement vers l’arrière, sans toucher la tête.",
+"en": "Move it slightly backwards without touching the head.",
+"ar": "حرّكها قليلاً إلى الخلف دون لمس الرأس."
+},
+"EXERCISE / 02": {
+"fr": "EXERCISE / 02",
+"en": "EXERCISE / 02",
+"ar": "تمرين / 02"
+},
+"En cas de difficulté ou de douleur, consultez votre vétérinaire ou un éducateur qualifié.": {
+"fr": "En cas de difficulté ou de douleur, consultez votre vétérinaire ou un éducateur qualifié.",
+"en": "In case of difficulty or pain, consult your veterinarian or a qualified trainer.",
+"ar": "في حال وجود صعوبة أو ألم، استشر طبيبك البيطري أو مدرباً مؤهلاً."
+},
+"En savoir plus": {
+"fr": "En savoir plus",
+"en": "Learn more",
+"ar": "معرفة المزيد"
+},
+"Encourager le mouvement de patte": {
+"fr": "Encourager le mouvement de patte",
+"en": "Encourage paw movement",
+"ar": "تشجيع حركة الكف"
+},
+"Enregistrer": {
+"fr": "Enregistrer",
+"en": "Save",
+"ar": "حفظ"
+},
+"Entraînement": {
+"fr": "Entraînement",
+"en": "Training",
+"ar": "تدريب"
+},
+"Entraîner mon compagnon": {
+"fr": "Entraîner mon compagnon",
+"en": "Train my companion",
+"ar": "تدريب أليفي"
+},
+"Entrer dans la caisse": {
+"fr": "Entrer dans la caisse",
+"en": "Enter the crate",
+"ar": "الدخول إلى القفص"
+},
+"Entrer volontairement puis rester brièvement.": {
+"fr": "Entrer volontairement puis rester brièvement.",
+"en": "Enter willingly and stay briefly.",
+"ar": "الدخول طواعية ثم البقاء لفترة قصيرة."
+},
+"Environ": {
+"fr": "Environ",
+"en": "About",
+"ar": "حوالي"
+},
+"Espèce": {
+"fr": "Espèce",
+"en": "Species",
+"ar": "الفصيلة"
+},
+"Ex. 4": {
+"fr": "Ex. 4",
+"en": "Ex. 4",
+"ar": "مثال: 4"
+},
+"Exercices": {
+"fr": "Exercices",
+"en": "Exercises",
+"ar": "تمارين"
+},
+"Exercise or walk": {
+"fr": "Exercice ou promenade",
+"en": "Exercise or walk",
+"ar": "تمرين أو تمشية"
+},
+"Explorer la caisse ouverte et sa couverture.": {
+"fr": "Explorer la caisse ouverte et sa couverture.",
+"en": "Explore the open crate and its blanket.",
+"ar": "استكشاف القفص المفتوح والبطانية."
+},
+"Explorer la récompense sans être contraint.": {
+"fr": "Explorer la récompense sans être contraint.",
+"en": "Explore the reward without pressure.",
+"ar": "استكشاف المكافأة دون إجبار."
+},
+"Faire de la caisse un endroit familier et rassurant.": {
+"fr": "Faire de la caisse un endroit familier et rassurant.",
+"en": "Make the crate a familiar and comforting place.",
+"ar": "جعل القفص مكاناً مألوفاً ومطمئناً."
+},
+"Faire quelques pas ensemble": {
+"fr": "Faire quelques pas ensemble",
+"en": "Take a few steps together",
+"ar": "المشي بضع خطوات معاً"
+},
+"Faire quelques pas pour atteindre la cible.": {
+"fr": "Faire quelques pas pour atteindre la cible.",
+"en": "Take a few steps to reach the target.",
+"ar": "المشي بضع خطوات للوصول إلى الهدف."
+},
+"Faites de petites séries et repartez uniquement avec une laisse souple.": {
+"fr": "Faites de petites séries et repartez uniquement avec une laisse souple.",
+"en": "Do short sets and only move on with a loose leash.",
+"ar": "قم بجولات قصيرة وانطلق فقط عندما يكون المقود مرخياً."
+},
+"Faites un clic discret ou dites « oui », puis donnez aussitôt une friandise. Répétez quelques fois sans demander un exercice.": {
+"fr": "Faites un clic discret ou dites « oui », puis donnez aussitôt une friandise. Répétez quelques fois sans demander un exercice.",
+"en": "Make a soft click or say “yes”, then immediately give a treat. Repeat a few times without asking for an exercise.",
+"ar": "اضغط نقرة خفيفة أو قل «نعم»، ثم أعطه مكافأة على الفور. كرر ذلك بضع مرات دون طلب تمرين."
+},
+"Faites une pause après plusieurs réussites et arrêtez tant que le chat participe volontiers.": {
+"fr": "Faites une pause après plusieurs réussites et arrêtez tant que le chat participe volontiers.",
+"en": "Take a break after several successes and stop while the cat is still happily joining in.",
+"ar": "خذ استراحة بعد عدة نجاحات وتوقف طالما أن القط يشارك برغبة."
+},
+"Feed your pet": {
+"fr": "Nourrir votre animal",
+"en": "Feed your pet",
+"ar": "إطعام أليفك"
+},
+"Fermer la porte une seconde": {
+"fr": "Fermer la porte une seconde",
+"en": "Close the door for a second",
+"ar": "إغلاق الباب لثانية واحدة"
+},
+"Fermer le menu": {
+"fr": "Fermer le menu",
+"en": "Close menu",
+"ar": "إغلاق القائمة"
+},
+"Fesses au sol, pattes avant droites et corps détendu.": {
+"fr": "Fesses au sol, pattes avant droites et corps détendu.",
+"en": "Bottom on the ground, front paws straight, and body relaxed.",
+"ar": "المؤخرة على الأرض، والقائمتان الأماميتان مستقيمتان، والجسم مسترخٍ."
+},
+"Fesses au sol, pattes avant droites, tête orientée vers vous.": {
+"fr": "Fesses au sol, pattes avant droites, tête orientée vers vous.",
+"en": "Bottom on the ground, front paws straight, head turned toward you.",
+"ar": "المؤخرة على الأرض، والقائمتان الأماميتان مستقيمتان، والرأس موجه نحوك."
+},
+"Fesses au sol, pattes avant droites.": {
+"fr": "Fesses au sol, pattes avant droites.",
+"en": "Bottom on the ground, front paws straight.",
+"ar": "المؤخرة على الأرض، والقائمتان الأماميتان مستقيمتان."
+},
+"Fesses complètement au sol, poitrine relevée.": {
+"fr": "Fesses complètement au sol, poitrine relevée.",
+"en": "Bottom completely on the ground, chest up.",
+"ar": "المؤخرة على الأرض تماماً، والصدر مرفوع."
+},
+"Fesses sur le tapis et pattes immobiles ; à la libération seulement, corps en marche.": {
+"fr": "Fesses sur le tapis et pattes immobiles ; à la libération seulement, corps en marche.",
+"en": "Bottom on the mat and paws still; only upon release, move forward.",
+"ar": "المؤخرة على البساط والقوائم ساكنة؛ وعند إشارة الانطلاق فقط، يبدأ بالحركة."
+},
+"Finissez sur une petite réussite.": {
+"fr": "Finissez sur une petite réussite.",
+"en": "End on a small success.",
+"ar": "اختم بنجاح بسيط."
+},
+"Fléchir les pattes arrière et commencer à descendre.": {
+"fr": "Fléchir les pattes arrière et commencer à descendre.",
+"en": "Bend the back legs and begin to lower down.",
+"ar": "ثني القائمتين الخلفيتين والبدء في النزول."
+},
+"Follow the kind of movement they enjoy.": {
+"fr": "Suivez le type de mouvement qu'il apprécie.",
+"en": "Follow the kind of movement they enjoy.",
+"ar": "اتبع نوع الحركة التي يستمتع بها."
+},
+"For every good morning.": {
+"fr": "Pour chaque beau matin.",
+"en": "For every good morning.",
+"ar": "لكل صباح جميل."
+},
+"Fresh and easy beats fancy.": {
+"fr": "Simple et frais vaut mieux que sophistiqué.",
+"en": "Fresh and easy beats fancy.",
+"ar": "البسيط والمنعش خير من المعقد."
+},
+"Garder une séance très courte": {
+"fr": "Garder une séance très courte",
+"en": "Keep the session very short",
+"ar": "إبقاء الجلسة قصيرة جداً"
+},
+"Gardez la cible immobile et faites une pause après quatre ou cinq contacts.": {
+"fr": "Gardez la cible immobile et faites une pause après quatre ou cinq contacts.",
+"en": "Keep the target still and take a break after four or five touches.",
+"ar": "حافظ على ثبات الهدف وخذ استراحة بعد أربع أو خمس ملامسات."
+},
+"Gardez la main basse pour éviter un saut.": {
+"fr": "Gardez la main basse pour éviter un saut.",
+"en": "Keep your hand low to prevent a jump.",
+"ar": "أبقِ يدك منخفضة لتجنب القفز."
+},
+"Gardez la main près de la hanche et félicitez le chien quand son épaule suit votre jambe.": {
+"fr": "Gardez la main près de la hanche et félicitez le chien quand son épaule suit votre jambe.",
+"en": "Keep your hand near your hip and praise the dog when their shoulder aligns with your leg.",
+"ar": "أبقِ يدك قريبة من الورك وامتدح كلبك عندما يحاذي كتفه ساقك."
+},
+"Gardez le chien à l’intérieur du virage et récompensez son alignement.": {
+"fr": "Gardez le chien à l’intérieur du virage et récompensez son alignement.",
+"en": "Keep the dog on the inside of the turn and reward good alignment.",
+"ar": "أبقِ الكلب في الجانب الداخلي للمنعطف وكافئه على بقائه محاذياً لك."
+},
+"Gardez le même signal et récompensez chaque arrivée.": {
+"fr": "Gardez le même signal et récompensez chaque arrivée.",
+"en": "Keep the same cue and reward every recall.",
+"ar": "التزم بالإشارة نفسها وكافئ كل وصول."
+},
+"Gardez une friandise à votre hanche gauche et laissez la laisse former une courbe souple.": {
+"fr": "Gardez une friandise à votre hanche gauche et laissez la laisse former une courbe souple.",
+"en": "Keep a treat at your left hip and let the leash hang in a loose curve.",
+"ar": "احتفظ بمكافأة عند وركك الأيسر ودع المقود يتدلى برخاوة وانسيابية."
+},
+"Gardez une main ouverte ou vide et récompensez avec l’autre.": {
+"fr": "Gardez une main ouverte ou vide et récompensez avec l’autre.",
+"en": "Keep one hand open or empty and reward with the other.",
+"ar": "أبقِ إحدى يديك مفتوحة أو فارغة وكافئ بالأخرى."
+},
+"Give fresh water": {
+"fr": "Donner de l’eau fraîche",
+"en": "Give fresh water",
+"ar": "قدّم ماءً عذباً"
+},
+"Grooming": {
+"fr": "Toilettage",
+"en": "Grooming",
+"ar": "العناية بالمظهر"
+},
+"Guider doucement au-dessus de la tête": {
+"fr": "Guider doucement au-dessus de la tête",
+"en": "Gently guide above the head",
+"ar": "التوجيه بلطف فوق الرأس"
+},
+"Guider la friandise vers le sol": {
+"fr": "Guider la friandise vers le sol",
+"en": "Guide the treat down to the floor",
+"ar": "توجيه المكافأة نحو الأرض"
+},
+"Guider vers l’entrée sans pousser": {
+"fr": "Guider vers l’entrée sans pousser",
+"en": "Guide toward the entrance without pushing",
+"ar": "التوجيه نحو المدخل دون دفع"
+},
+"Guides de soins": {
+"fr": "Guides de soins",
+"en": "Care guides",
+"ar": "أدلة الرعاية"
+},
+"HYGIENE / 03": {
+"fr": "HYGIÈNE / 03",
+"en": "HYGIENE / 03",
+"ar": "النظافة / 03"
+},
+"Hygiène": {
+"fr": "Hygiène",
+"en": "Hygiene",
+"ar": "النظافة"
+},
+"Illustration PetCare": {
+"fr": "Illustration PetCare",
+"en": "PetCare illustration",
+"ar": "رسم PetCare التوضيحي"
+},
+"Installez un tapis dans une pièce tranquille. Préparez quelques friandises petites et tendres, sans les donner toutes à la fois.": {
+"fr": "Installez un tapis dans une pièce tranquille. Préparez quelques friandises petites et tendres, sans les donner toutes à la fois.",
+"en": "Set up a mat in a quiet room. Prepare a few small, soft treats without giving them all at once.",
+"ar": "ضع بساطاً في غرفة هادئة، وجَهّز بعض المكافآت الصغيرة والطرية دون تقديمها دفعة واحدة."
+},
+"Intermédiaire": {
+"fr": "Intermédiaire",
+"en": "Intermediate",
+"ar": "متوسط"
+},
+"Inviter le chien à venir": {
+"fr": "Inviter le chien à venir",
+"en": "Invite the dog to come",
+"ar": "دعوة الكلب للقدوم"
+},
+"Keep an eye on sudden changes in appetite or water intake. One quiet meal can happen; a pattern is worth a call to your vet.": {
+"fr": "Gardez un œil sur les changements soudains d'appétit ou de consommation d'eau. Un repas boudé peut arriver ; si cela se répète, appelez votre vétérinaire.",
+"en": "Keep an eye on sudden changes in appetite or water intake. One quiet meal can happen; a pattern is worth a call to your vet.",
+"ar": "انتبه لأي تغيرات مفاجئة في الشهية أو شرب الماء. قد يفوّت وجبة عرضاً، لكن تكرار ذلك يستدعي استشارة الطبيب البيطري."
+},
+"Keep meals calm, familiar, and right for them.": {
+"fr": "Offrez des repas calmes, familiers et adaptés à ses besoins.",
+"en": "Keep meals calm, familiar, and right for them.",
+"ar": "اجعل الوجبات هادئة ومألوفة ومناسبة له."
+},
+"Keep meals consistent and notice changes in appetite, water intake, or energy. A pattern that feels unusual is worth sharing with your veterinarian.": {
+"fr": "Gardez des repas réguliers et notez tout changement d'appétit, d'hydratation ou d'énergie. Une habitude inhabituelle mérite d'être signalée à votre vétérinaire.",
+"en": "Keep meals consistent and notice changes in appetite, water intake, or energy. A pattern that feels unusual is worth sharing with your veterinarian.",
+"ar": "حافظ على انتظام الوجبات وراقب أي تغير في الشهية أو شرب الماء أو النشاط. وأي نمط غير معتاد يستحق إطلاع طبيبك البيطري عليه."
+},
+"Keep medicines, toxic foods, small objects, and open windows out of reach. When you are unsure, ask your veterinarian what to avoid.": {
+"fr": "Gardez les médicaments, aliments toxiques, petits objets et fenêtres ouvertes hors de portée. En cas de doute, demandez à votre vétérinaire ce qu'il faut éviter.",
+"en": "Keep medicines, toxic foods, small objects, and open windows out of reach. When you are unsure, ask your veterinarian what to avoid.",
+"ar": "احرص على إبقاء الأدوية والأطعمة السامة والأشياء الصغيرة والنوافذ المفتوحة بعيداً عن متناول أليفكم. وإذا انتابك الشك، فاسأل طبيبك البيطري عما يجب تجنبه."
+},
+"Keep practice short and clear. A calm check-in, a wait, or a good recall is worth celebrating with a favorite reward.": {
+"fr": "Gardez les séances courtes et claires. Un regard calme, une attente ou un bon rappel méritent d'être fêtés avec sa friandise préférée.",
+"en": "Keep practice short and clear. A calm check-in, a wait, or a good recall is worth celebrating with a favorite reward.",
+"ar": "اجعل التدريب قصيراً وواضحاً. فالتواصل الهادئ أو الانتظار أو الاستجابة لنداء العودة تستحق كلها الاحتفال بمكافأة مفضلة."
+},
+"Keep the water moving": {
+"fr": "Gardez l'eau en mouvement",
+"en": "Keep the water moving",
+"ar": "أبقِ الماء متجدداً وجارياً"
+},
+"LE PARCOURS": {
+"fr": "LE PARCOURS",
+"en": "THE COURSE",
+"ar": "المسار"
+},
+"La bonne position": {
+"fr": "La bonne position",
+"en": "The right position",
+"ar": "الوضعية الصحيحة"
+},
+"La liste du jour": {
+"fr": "La liste du jour",
+"en": "Today's checklist",
+"ar": "قائمة اليوم"
+},
+"La liste ne peut pas être sauvegardée sur cet appareil.": {
+"fr": "La liste ne peut pas être sauvegardée sur cet appareil.",
+"en": "The list cannot be saved on this device.",
+"ar": "تعذر حفظ القائمة على هذا الجهاز."
+},
+"La progression ne peut pas être sauvegardée sur cet appareil.": {
+"fr": "La progression ne peut pas être sauvegardée sur cet appareil.",
+"en": "Progress cannot be saved on this device.",
+"ar": "تعذر حفظ التقدم على هذا الجهاز."
+},
+"Laisser la caisse ouverte": {
+"fr": "Laisser la caisse ouverte",
+"en": "Leave the carrier open",
+"ar": "ترك صندوق النقل مفتوحاً"
+},
+"Laissez la caisse accessible entre les séances, pas seulement les jours de vétérinaire.": {
+"fr": "Laissez la caisse accessible entre les séances, pas seulement les jours de vétérinaire.",
+"en": "Keep the carrier accessible between sessions, not just on vet days.",
+"ar": "اجعل صندوق النقل متاحاً بين الجلسات، وليس فقط في أيام زيارة الطبيب البيطري."
+},
+"Laissez la caisse ouverte dans une pièce familière. Ajoutez une couverture confortable et quelques friandises à l’intérieur.": {
+"fr": "Laissez la caisse ouverte dans une pièce familière. Ajoutez une couverture confortable et quelques friandises à l’intérieur.",
+"en": "Leave the carrier open in a familiar room. Add a cozy blanket and a few treats inside.",
+"ar": "اترك صندوق النقل مفتوحاً في غرفة مألوفة، وضع بداخله بطانية مريحة وبعض المكافآت."
+},
+"Laissez le chat marcher jusqu’à elle et récompensez le contact.": {
+"fr": "Laissez le chat marcher jusqu’à elle et récompensez le contact.",
+"en": "Let the cat walk up to it and reward the contact.",
+"ar": "دع القطة تقترب منها وكافئها عند حدوث التلامس."
+},
+"Laissez le chat rester ou ressortir librement.": {
+"fr": "Laissez le chat rester ou ressortir librement.",
+"en": "Let the cat stay or walk out freely.",
+"ar": "دع القطة تبقى بالداخل أو تخرج بكل حرية."
+},
+"Laissez le nez suivre la friandise : les pattes arrière se plient et le bassin commence à descendre. Gardez la main basse pour éviter un saut.": {
+"fr": "Laissez le nez suivre la friandise : les pattes arrière se plient et le bassin commence à descendre. Gardez la main basse pour éviter un saut.",
+"en": "Let their nose follow the treat: the back legs bend and the hips start to lower. Keep your hand low to avoid jumping.",
+"ar": "دع أنفه يتبع المكافأة: ستنثني الساقان الخلفيتان ويبدأ الحوض بالنزول. أبقِ يدك منخفضة لتجنب القفز."
+},
+"Laissez un espace visible : ne touchez jamais le museau.": {
+"fr": "Laissez un espace visible : ne touchez jamais le museau.",
+"en": "Leave a visible gap: never touch the nose.",
+"ar": "اترك مسافة واضحة: لا تلمس الأنف أبداً."
+},
+"Laissez-le explorer sans saisir sa patte.": {
+"fr": "Laissez-le explorer sans saisir sa patte.",
+"en": "Let them explore without grabbing their paw.",
+"ar": "دعه يستكشف دون أن تمسك بمخلبه."
+},
+"Le bassin descend mais n’a pas encore besoin de toucher le sol.": {
+"fr": "Le bassin descend mais n’a pas encore besoin de toucher le sol.",
+"en": "The hips lower but don't need to touch the ground just yet.",
+"ar": "ينخفض الحوض ولكن لا داعي لأن يلامس الأرض بعد."
+},
+"Le chien reste à côté, sans croiser devant vous.": {
+"fr": "Le chien reste à côté, sans croiser devant vous.",
+"en": "The dog stays by your side, without cutting in front of you.",
+"ar": "يبقى الكلب بجانبك، دون أن يمر أمامك."
+},
+"Le geste à retenir": {
+"fr": "Le geste à retenir",
+"en": "The key takeaway",
+"ar": "الحركة الأساسية للتذكر"
+},
+"Le petit conseil": {
+"fr": "Le petit conseil",
+"en": "A helpful tip",
+"ar": "نصيحة سريعة"
+},
+"Le profil ne peut pas être sauvegardé sur cet appareil.": {
+"fr": "Le profil ne peut pas être sauvegardé sur cet appareil.",
+"en": "The profile cannot be saved on this device.",
+"ar": "تعذر حفظ الملف الشخصي على هذا الجهاز."
+},
+"Les bases": {
+"fr": "Les bases",
+"en": "The basics",
+"ar": "الأساسيات"
+},
+"Les bonnes choses": {
+"fr": "Les bonnes choses",
+"en": "The good stuff",
+"ar": "الأشياء الجميلة"
+},
+"Les erreurs à éviter": {
+"fr": "Les erreurs à éviter",
+"en": "Mistakes to avoid",
+"ar": "أخطاء يجب تجنبها"
+},
+"Les petits gestes font les grandes amitiés.": {
+"fr": "Les petits gestes font les grandes amitiés.",
+"en": "Little gestures build strong friendships.",
+"ar": "اللمسات البسيطة تصنع أمتن الصداقات."
+},
+"Les soins": {
+"fr": "Les soins",
+"en": "Care & grooming",
+"ar": "العناية"
+},
+"Les soins du quotidien": {
+"fr": "Les soins du quotidien",
+"en": "Everyday care",
+"ar": "العناية اليومية"
+},
+"Let sniffing count as exercise.": {
+"fr": "Le flairage est un vrai exercice.",
+"en": "Let sniffing count as exercise.",
+"ar": "اجعل الشم يُحسب كنشاط بدني."
+},
+"Let their appetite be a conversation.": {
+"fr": "Laissez son appétit guider le dialogue.",
+"en": "Let their appetite be a conversation.",
+"ar": "اجعل شهيتهم وسيلة للتواصل."
+},
+"Lever la patte vers la paume au signal.": {
+"fr": "Lever la patte vers la paume au signal.",
+"en": "Lift the paw toward the palm on cue.",
+"ar": "رفع المخلب نحو راحة اليد عند الإشارة."
+},
+"Lever la tête en suivant lentement la friandise.": {
+"fr": "Lever la tête en suivant lentement la friandise.",
+"en": "Lift the head by slowly following the treat.",
+"ar": "رفع الرأس مع تتبع المكافأة ببطء."
+},
+"Lever une patte vers le poing plus haut.": {
+"fr": "Lever une patte vers le poing plus haut.",
+"en": "Lift a paw toward the raised fist.",
+"ar": "رفع المخلب نحو القبضة المرفوعة لأعلى."
+},
+"Lever une patte vers votre main fermée.": {
+"fr": "Lever une patte vers votre main fermée.",
+"en": "Lift a paw toward your closed hand.",
+"ar": "رفع المخلب نحو يدك المغلقة."
+},
+"Libérer avec un mot clair": {
+"fr": "Libérer avec un mot clair",
+"en": "Release with a clear cue",
+"ar": "التحرير بكلمة واضحة"
+},
+"Limitez la séance à quelques minutes. Faites une pause après plusieurs réussites et arrêtez tant que le chat participe volontiers.": {
+"fr": "Limitez la séance à quelques minutes. Faites une pause après plusieurs réussites et arrêtez tant que le chat participe volontiers.",
+"en": "Keep the session to a few minutes. Take a break after several successes, and stop while the cat is still happily engaged.",
+"ar": "اجعل الجلسة مقتصرة على بضع دقائق. خذ استراحة بعد عدة نجاحات، وتوقف طالما أن القطة لا تزال تتفاعل برغبة وسعادة."
+},
+"Lire le conseil": {
+"fr": "Lire le conseil",
+"en": "Read the tip",
+"ar": "قراءة النصيحة"
+},
+"Look at the bowl": {
+"fr": "Regarder le bol",
+"en": "Look at the bowl",
+"ar": "النظر إلى الوعاء"
+},
+"Look at their coat, paws, ears, teeth, and litter or bathroom habits. Gentle, regular care helps you notice changes early.": {
+"fr": "Observez son pelage, ses pattes, ses oreilles, ses dents, ainsi que ses habitudes de litière ou de propreté. Des soins doux et réguliers vous aident à repérer les changements tôt.",
+"en": "Look at their coat, paws, ears, teeth, and litter or bathroom habits. Gentle, regular care helps you notice changes early.",
+"ar": "تفقد فراء أليفك، وكفوفه، وأذنيه، وأسنانه، بالإضافة إلى عادات استخدام صندوق الفضلات أو قضاء الحاجة. الرعاية اللطيفة والمنتظمة تساعدك على ملاحظة أي تغييرات مبكرًا."
+},
+"Make hiding okay": {
+"fr": "Faire en sorte qu'il puisse se cacher en toute sérénité",
+"en": "Make hiding okay",
+"ar": "تقبل رغبته في الاختباء وجعلها مريحة"
+},
+"Make room for rest": {
+"fr": "Faire de la place pour le repos",
+"en": "Make room for rest",
+"ar": "وفّر مساحة للراحة"
+},
+"Make the safe choice the easy choice.": {
+"fr": "Faites du choix sécurisant le choix le plus facile.",
+"en": "Make the safe choice the easy choice.",
+"ar": "اجعل الخيار الآمن هو الخيار الأسهل."
+},
+"Manger la récompense sans se relever.": {
+"fr": "Manger la récompense sans se relever.",
+"en": "Eat the reward without getting up.",
+"ar": "تناول المكافأة دون الوقوف."
+},
+"Marcher depuis la pièce voisine vers vous.": {
+"fr": "Marcher depuis la pièce voisine vers vous.",
+"en": "Walk toward you from the next room.",
+"ar": "المشي من الغرفة المجاورة باتجاهك."
+},
+"Marcher ensemble, avec une laisse toujours détendue.": {
+"fr": "Marcher ensemble, avec une laisse toujours détendue.",
+"en": "Walk together, with a leash that's always loose.",
+"ar": "المشي معًا، مع بقاء المقود مرتخيًا دائمًا."
+},
+"Marcher vers vous de son propre choix.": {
+"fr": "Marcher vers vous de son propre choix.",
+"en": "Walk toward you by their own choice.",
+"ar": "المشي نحوك بملء إرادته."
+},
+"Marcher à votre gauche au même rythme.": {
+"fr": "Marcher à votre gauche au même rythme.",
+"en": "Walk on your left at the same pace.",
+"ar": "المشي على يسارك بالوتيرة نفسها."
+},
+"Marquer le bon comportement": {
+"fr": "Marquer le bon comportement",
+"en": "Mark the good behavior",
+"ar": "تمييز السلوك الجيد بالإشارة"
+},
+"Marquer le comportement au bon instant": {
+"fr": "Marquer le comportement au bon instant",
+"en": "Mark the behavior at the right moment",
+"ar": "تمييز السلوك بالإشارة في اللحظة المناسبة"
+},
+"Marquez et récompensez dès que les fesses sont au sol.": {
+"fr": "Marquez et récompensez dès que les fesses sont au sol.",
+"en": "Mark and reward as soon as their bottom touches the ground.",
+"ar": "ميّز بالإشارة وكافئ بمجرد ملامسة المؤخرة للأرض."
+},
+"Modifier le profil": {
+"fr": "Modifier le profil",
+"en": "Edit profile",
+"ar": "تعديل الملف الشخصي"
+},
+"Mon compagnon": {
+"fr": "Mon compagnon",
+"en": "My companion",
+"ar": "صديقي الأليف"
+},
+"Mon compagnon est": {
+"fr": "Mon compagnon est",
+"en": "My companion is",
+"ar": "صديقي الأليف هو"
+},
+"Monter progressivement la main": {
+"fr": "Monter progressivement la main",
+"en": "Gradually raise your hand",
+"ar": "رفع اليد تدريجيًا"
+},
+"Montez lentement la main juste au-dessus du museau. Déplacez-la légèrement vers l’arrière, sans toucher la tête.": {
+"fr": "Montez lentement la main juste au-dessus du museau. Déplacez-la légèrement vers l’arrière, sans toucher la tête.",
+"en": "Slowly raise your hand just above the muzzle. Move it slightly backward, without touching the head.",
+"ar": "ارفع يدك ببطء فوق الخطم مباشرة. حركها برفق إلى الخلف قليلًا، دون لمس الرأس."
+},
+"NUTRITION / 01": {
+"fr": "NUTRITION / 01",
+"en": "NUTRITION / 01",
+"ar": "التغذية / 01"
+},
+"Navigation principale": {
+"fr": "Navigation principale",
+"en": "Main navigation",
+"ar": "التنقل الرئيسي"
+},
+"Ne donnez pas de coups secs sur la laisse. Ne continuez pas à marcher quand elle est tendue.": {
+"fr": "Ne donnez pas de coups secs sur la laisse. Ne continuez pas à marcher quand elle est tendue.",
+"en": "Do not jerk the leash. Do not keep walking when it is tight.",
+"ar": "لا تجذب المقود بقوة. ولا تواصل المشي عندما يكون مشدودًا."
+},
+"Ne grondez jamais l’animal lorsqu’il revient. Ne testez pas le rappel en liberté près d’une route.": {
+"fr": "Ne grondez jamais l’animal lorsqu’il revient. Ne testez pas le rappel en liberté près d’une route.",
+"en": "Never scold your pet when they return. Never test off-leash recall near a road.",
+"ar": "إياك وتأنيب أليفك عند عودته إليك. ولا تختبر الاستدعاء دون مقود بالقرب من طريق."
+},
+"Ne poussez jamais le chat dans la caisse et ne bloquez pas sa sortie durant l’apprentissage.": {
+"fr": "Ne poussez jamais le chat dans la caisse et ne bloquez pas sa sortie durant l’apprentissage.",
+"en": "Never push the cat into the carrier, and do not block their exit during training.",
+"ar": "لا تدفع القطة أبدًا إلى داخل صندوق النقل، ولا تسد مخرجها أثناء التدريب."
+},
+"Ne poussez jamais l’arrière-train et ne tirez pas sur le collier. Une friandise trop haute provoque un saut.": {
+"fr": "Ne poussez jamais l’arrière-train et ne tirez pas sur le collier. Une friandise trop haute provoque un saut.",
+"en": "Never push their hindquarters down or pull on the collar. Holding a treat too high will cause them to jump.",
+"ar": "لا تضغط أبدًا على الجزء الخلفي ولا تسحب الطوق. رفع المكافأة عاليًا أكثر من اللازم يدفعه للقفز."
+},
+"Ne pressez pas les épaules et ne répétez pas le mot avec insistance. Évitez les sols glissants.": {
+"fr": "Ne pressez pas les épaules et ne répétez pas le mot avec insistance. Évitez les sols glissants.",
+"en": "Do not press on the shoulders or repeat the cue insistently. Avoid slippery floors.",
+"ar": "لا تضغط على الكتفين ولا تكرر الأمر بإلحاح. وتجنب الأرضيات الزلقة."
+},
+"Ne punissez pas, ne retenez pas l’animal et ne prolongez pas une séance s’il se détourne.": {
+"fr": "Ne punissez pas, ne retenez pas l’animal et ne prolongez pas une séance s’il se détourne.",
+"en": "Do not punish, restrain your pet, or prolong a session if they turn away.",
+"ar": "لا تعاقب أليفك ولا تقيده، ولا تطل الجلسة إذا أشاح بنظره أو ابتعد."
+},
+"Ne saisissez pas la patte et ne forcez jamais le contact. Gardez la main à une hauteur confortable.": {
+"fr": "Ne saisissez pas la patte et ne forcez jamais le contact. Gardez la main à une hauteur confortable.",
+"en": "Do not grab the paw and never force contact. Keep your hand at a comfortable height.",
+"ar": "لا تمسك بالمخلب ولا تجبره أبدًا على التلامس. أبقِ يدك على ارتفاع مريح."
+},
+"No perfect schedules here. Just a few useful cues, waiting for the right moment.": {
+"fr": "Pas d'horaires rigides ici. Juste quelques signaux utiles, en attendant le bon moment.",
+"en": "No perfect schedules here. Just a few useful cues, waiting for the right moment.",
+"ar": "لا توجد جداول زمنية صارمة هنا. فقط بضع إشارات مفيدة، في انتظار اللحظة المناسبة."
+},
+"Nom": {
+"fr": "Nom",
+"en": "Name",
+"ar": "الاسم"
+},
+"Nommer le comportement acquis": {
+"fr": "Nommer le comportement acquis",
+"en": "Name the learned behavior",
+"ar": "تسمية السلوك المكتسب"
+},
+"Notice appetite, energy, coat, paws, and mood.": {
+"fr": "Observez l’appétit, l’énergie, le pelage, les pattes et l’humeur.",
+"en": "Notice appetite, energy, coat, paws, and mood.",
+"ar": "لاحظ الشهية، والنشاط، والفراء، والكفوف، والمزاج."
+},
+"Notice first.": {
+"fr": "Observez d’abord.",
+"en": "Notice first.",
+"ar": "لاحظ أولاً."
+},
+"Notice the litter box": {
+"fr": "Observez le bac à litière",
+"en": "Notice the litter box",
+"ar": "لاحظ صندوق الفضلات"
+},
+"Notre approche": {
+"fr": "Notre approche",
+"en": "Our approach",
+"ar": "نهجنا"
+},
+"Nutrition": {
+"fr": "Nutrition",
+"en": "Nutrition",
+"ar": "التغذية"
+},
+"N’appuyez pas la cible sur le museau. Évitez de poursuivre le chat avec la baguette.": {
+"fr": "N’appuyez pas la cible sur le museau. Évitez de poursuivre le chat avec la baguette.",
+"en": "Do not press the target against the nose. Avoid chasing the cat with the wand.",
+"ar": "لا تضغط بالهدف على الأنف. وتجنب مطاردة القطة بالعصا."
+},
+"N’augmentez pas la durée et la distance en même temps. Ne récompensez pas après qu’il s’est levé.": {
+"fr": "N’augmentez pas la durée et la distance en même temps. Ne récompensez pas après qu’il s’est levé.",
+"en": "Do not increase duration and distance at the same time. Do not reward after they stand up.",
+"ar": "لا تزد المدة والمسافة في الوقت نفسه. ولا تكافئ بعد أن يقف."
+},
+"Observer les friandises en restant détendu.": {
+"fr": "Observer les friandises en restant détendu.",
+"en": "Look at the treats while staying relaxed.",
+"ar": "مراقبة المكافآت مع البقاء مسترخيًا."
+},
+"Observez une assise naturelle. Dès que les fesses sont au sol, cliquez puis donnez la récompense, sans manipuler le chat.": {
+"fr": "Observez une assise naturelle. Dès que les fesses sont au sol, cliquez puis donnez la récompense, sans manipuler le chat.",
+"en": "Observe a natural sit. As soon as the bottom touches the floor, click and reward, without handling the cat.",
+"ar": "راقب جلوسه الطبيعي. بمجرد أن تلامس مؤخرته الأرض، اضغط بالزر ثم قدّم المكافأة، دون تحريك القطة بيدك."
+},
+"Obtenir la position assise": {
+"fr": "Obtenir la position assise",
+"en": "Achieve the sit position",
+"ar": "الحصول على وضعية الجلوس"
+},
+"Obtenir les coudes au sol": {
+"fr": "Obtenir les coudes au sol",
+"en": "Get the elbows on the ground",
+"ar": "جعل المرفقين يلامسان الأرض"
+},
+"Orienter les oreilles et la tête vers le signal.": {
+"fr": "Orienter les oreilles et la tête vers le signal.",
+"en": "Turn ears and head toward the cue.",
+"ar": "توجيه الأذنين والرأس نحو الإشارة."
+},
+"Ouvrez la main pour récompenser immédiatement ce premier mouvement.": {
+"fr": "Ouvrez la main pour récompenser immédiatement ce premier mouvement.",
+"en": "Open your hand to reward this first movement immediately.",
+"ar": "افتح يدك لمكافأة هذه الحركة الأولى على الفور."
+},
+"Ouvrez la paume et placez-la légèrement plus haut. Récompensez un contact ou une patte qui s’approche de la paume.": {
+"fr": "Ouvrez la paume et placez-la légèrement plus haut. Récompensez un contact ou une patte qui s’approche de la paume.",
+"en": "Open your palm and place it slightly higher. Reward contact or a paw approaching your palm.",
+"ar": "افتح كفك وضعه أعلى قليلاً. كافئ أي تلامس أو اقتراب للكف من راحة يدك."
+},
+"Ouvrez les bras à hauteur basse pour l’inviter à vous rejoindre.": {
+"fr": "Ouvrez les bras à hauteur basse pour l’inviter à vous rejoindre.",
+"en": "Open your arms low to invite them to come to you.",
+"ar": "افتح ذراعيك على مستوى منخفض لدعوته للمجيء إليك."
+},
+"Ouvrir le menu": {
+"fr": "Ouvrir le menu",
+"en": "Open menu",
+"ar": "فتح القائمة"
+},
+"Pattes arrière fléchies, bassin encore au-dessus du sol, pattes avant droites.": {
+"fr": "Pattes arrière fléchies, bassin encore au-dessus du sol, pattes avant droites.",
+"en": "Hind legs bent, pelvis still above the ground, front legs straight.",
+"ar": "القائمتان الخلفيتان منثنيتان، والحوض لا يزال فوق الأرض، والقائمتان الأماميتان مستقيمتان."
+},
+"Pattes avant ancrées au sol, tête relevée sans sauter.": {
+"fr": "Pattes avant ancrées au sol, tête relevée sans sauter.",
+"en": "Front paws planted on the floor, head raised without jumping.",
+"ar": "القائمتان الأماميتان ثابتتان على الأرض، والرأس مرفوع دون قفز."
+},
+"Pet care is less about keeping score and more about knowing your animal well enough to spot what is different. PetCare keeps the basics close so your attention can stay where it belongs.": {
+"fr": "Prendre soin d’un animal ne consiste pas à compter les points, mais à le connaître assez bien pour repérer ce qui change. PetCare garde l’essentiel à portée de main pour que votre attention reste là où elle compte vraiment.",
+"en": "Pet care is less about keeping score and more about knowing your animal well enough to spot what is different. PetCare keeps the basics close so your attention can stay where it belongs.",
+"ar": "العناية بالحيوان الأليف لا تتعلق بتسجيل النقاط بقدر ما تتعلق بمعرفته جيدًا لرصد أي تغيير. يساعدك PetCare على إبقاء الأساسيات في متناول يدك ليبقى تركيزك حيث ينبغي."
+},
+"PetCare began with a simple observation: the people who care deeply about their animals do not need more noise. They need the right reminder at the right time, and a place to keep learning without feeling judged.": {
+"fr": "PetCare est né d’un constat simple : les personnes profondément attachées à leur animal n’ont pas besoin de plus de bruit. Elles ont besoin du bon rappel au bon moment, et d’un espace pour continuer à apprendre sans se sentir jugées.",
+"en": "PetCare began with a simple observation: the people who care deeply about their animals do not need more noise. They need the right reminder at the right time, and a place to keep learning without feeling judged.",
+"ar": "انطلق PetCare من ملاحظة بسيطة: الأشخاص الذين يهتمون بحيواناتهم بعمق لا يحتاجون إلى مزيد من الصخب، بل يحتاجون إلى التذكير المناسب في الوقت المناسب، ومساحة لمواصلة التعلم دون خوف من إطلاق الأحكام."
+},
+"PetCare is educational, not a substitute for veterinary care. When something feels off, trust that feeling and call your veterinarian. Knowing when to ask for help is part of being an excellent pet person.": {
+"fr": "PetCare a une visée éducative et ne remplace pas les soins vétérinaires. Si vous avez un doute, écoutez votre intuition et appelez votre vétérinaire. Savoir demander de l’aide fait partie intégrante d’une belle relation avec son animal.",
+"en": "PetCare is educational, not a substitute for veterinary care. When something feels off, trust that feeling and call your veterinarian. Knowing when to ask for help is part of being an excellent pet person.",
+"ar": "تطبيق PetCare تعليمي وليس بديلاً عن الرعاية البيطرية. عندما تشعر بأن هناك خطباً ما، ثق بحدسك واتصل بالطبيب البيطري؛ فمعرفة متى تطلب المساعدة جزء أساسي من إحسانك لرعاية أليفك."
+},
+"PetCare · Une attention, chaque jour.": {
+"fr": "PetCare · Une attention, chaque jour.",
+"en": "PetCare · Mindful care, every day.",
+"ar": "PetCare · اهتمام دافئ، كل يوم."
+},
+"Petits conseils": {
+"fr": "Petits conseils",
+"en": "Quick tips",
+"ar": "نصائح سريعة"
+},
+"Place water away from the litter box and refresh it regularly. Some cats prefer a wide dish or a gentle fountain; watch what yours chooses.": {
+"fr": "Placez l’eau à l’écart du bac à litière et renouvelez-la régulièrement. Certains chats préfèrent une gamelle large ou une fontaine douce ; observez ce que le vôtre choisit.",
+"en": "Place water away from the litter box and refresh it regularly. Some cats prefer a wide dish or a gentle fountain; watch what yours chooses.",
+"ar": "ضع الماء بعيدًا عن صندوق الفضلات وجدده بانتظام. تفضل بعض القطط وعاءً واسعًا أو نافورة هادئة؛ راقب ما يفضله أليفك."
+},
+"Placez le chien assis à votre gauche. Gardez une friandise à votre hanche gauche et laissez la laisse former une courbe souple.": {
+"fr": "Placez le chien assis à votre gauche. Gardez une friandise à votre hanche gauche et laissez la laisse former une courbe souple.",
+"en": "Position the dog sitting on your left. Keep a treat at your left hip and allow the leash to hang loose in a gentle curve.",
+"ar": "اجعل الكلب يجلس على يسارك. احتفظ بمكافأة عند وركك الأيسر ودع المقود مرتخيًا بانحناءة لطيفة."
+},
+"Placez une petite friandise à quelques centimètres du nez de votre chien debout. Attendez qu’il regarde votre main sans sauter.": {
+"fr": "Placez une petite friandise à quelques centimètres du nez de votre chien debout. Attendez qu’il regarde votre main sans sauter.",
+"en": "Hold a small treat a few centimeters from your standing dog's nose. Wait for them to look at your hand without jumping.",
+"ar": "ضع مكافأة صغيرة على بعد بضعة سنتيمترات من أنف كلبك وهو واقف. انتظر حتى ينظر إلى يدك دون أن يقفز."
+},
+"Play in little bursts": {
+"fr": "Jouez par courtes sessions",
+"en": "Play in little bursts",
+"ar": "العب في فترات قصيرة"
+},
+"Plier les pattes arrière et commencer à abaisser le bassin.": {
+"fr": "Plier les pattes arrière et commencer à abaisser le bassin.",
+"en": "Bend the hind legs and begin lowering the pelvis.",
+"ar": "ثني القائمتين الخلفيتين والبدء بخفض الحوض."
+},
+"Poitrine et deux coudes posés, tête libre.": {
+"fr": "Poitrine et deux coudes posés, tête libre.",
+"en": "Chest and both elbows resting down, head free.",
+"ar": "الصدر وكلا المرفقين على الأرض، مع إبقاء الرأس حراً."
+},
+"Poser les deux coudes et le poitrail sur le tapis.": {
+"fr": "Poser les deux coudes et le poitrail sur le tapis.",
+"en": "Rest both elbows and the chest on the mat.",
+"ar": "وضع كلا المرفقين والصدر على البساط."
+},
+"Poser les fesses au sol avec les pattes avant stables.": {
+"fr": "Poser les fesses au sol avec les pattes avant stables.",
+"en": "Sit with bottom on the floor and front paws steady.",
+"ar": "وضع المؤخرة على الأرض مع ثبات القائمتين الأماميتين."
+},
+"Poser une patte sur votre poing.": {
+"fr": "Poser une patte sur votre poing.",
+"en": "Place a paw on your fist.",
+"ar": "وضع كف واحدة على قبضة يدك."
+},
+"Position de départ": {
+"fr": "Position de départ",
+"en": "Starting position",
+"ar": "وضعية البداية"
+},
+"Pour chaque bonjour.": {
+"fr": "Pour chaque bonjour.",
+"en": "For every greeting.",
+"ar": "لكل تحية."
+},
+"Practice one tiny cue with patience and praise.": {
+"fr": "Pratiquez un tout petit signal avec patience et félicitations.",
+"en": "Practice one tiny cue with patience and praise.",
+"ar": "تدرّب على إشارة بسيطة واحدة بصبر وتشجيع."
+},
+"Practice the pause": {
+"fr": "Pratiquer la pause",
+"en": "Practice the pause",
+"ar": "التدرب على التوقف المؤقت"
+},
+"Pratiquer à différents moments": {
+"fr": "Pratiquer à différents moments",
+"en": "Practice at different times",
+"ar": "التدرب في أوقات مختلفة"
+},
+"Privacy is a comfort, not a problem.": {
+"fr": "L’intimité est un confort, pas un problème.",
+"en": "Privacy is a comfort, not a problem.",
+"ar": "الخصوصية راحة وليست مشكلة."
+},
+"Progression de l’exercice": {
+"fr": "Progression de l’exercice",
+"en": "Exercise progression",
+"ar": "تدرج التمرين"
+},
+"Précédent": {
+"fr": "Précédent",
+"en": "Previous",
+"ar": "السابق"
+},
+"Préparer un environnement calme": {
+"fr": "Préparer un environnement calme",
+"en": "Prepare a calm environment",
+"ar": "تجهيز بيئة هادئة"
+},
+"Préparez de minuscules friandises appréciées.": {
+"fr": "Préparez de minuscules friandises appréciées.",
+"en": "Prepare tiny, high-value treats.",
+"ar": "جهّز مكافآت صغيرة جداً ومحببة."
+},
+"Préparez quelques friandises petites et tendres, sans les donner toutes à la fois.": {
+"fr": "Préparez quelques friandises petites et tendres, sans les donner toutes à la fois.",
+"en": "Prepare a few small, soft treats without giving them all at once.",
+"ar": "جهّز بضع مكافآت صغيرة ولينة، دون إعطائها دفعة واحدة."
+},
+"Présenter la cible près du nez": {
+"fr": "Présenter la cible près du nez",
+"en": "Present the target near the nose",
+"ar": "تقديم الهدف بالقرب من الأنف"
+},
+"Présenter la main « stop »": {
+"fr": "Présenter la main « stop »",
+"en": "Present the “stop” hand",
+"ar": "تقديم إشارة يد «توقف»"
+},
+"Présenter la paume ouverte": {
+"fr": "Présenter la paume ouverte",
+"en": "Present an open palm",
+"ar": "تقديم راحة اليد المفتوحة"
+},
+"Présenter le poing fermé": {
+"fr": "Présenter le poing fermé",
+"en": "Present a closed fist",
+"ar": "تقديم قبضة يد مغلقة"
+},
+"Présentez la cible immobile. Cliquez au moment exact où le nez touche doucement son extrémité, puis donnez une friandise.": {
+"fr": "Présentez la cible immobile. Cliquez au moment exact où le nez touche doucement son extrémité, puis donnez une friandise.",
+"en": "Hold the target still. Click the exact moment the nose gently touches its tip, then give a treat.",
+"ar": "أمسك الهدف بثبات. اضغط على الكليكر في اللحظة الدقيقة التي يلمس فيها الأنف طرفه برفق، ثم قدّم مكافأة."
+},
+"Présentez la paume puis récompensez.": {
+"fr": "Présentez la paume puis récompensez.",
+"en": "Present your palm, then reward.",
+"ar": "قدّم راحة يدك ثم كافئ."
+},
+"Présentez l’extrémité d’une cible à environ cinq centimètres du nez. Laissez un espace visible : ne touchez jamais le museau.": {
+"fr": "Présentez l’extrémité d’une cible à environ cinq centimètres du nez. Laissez un espace visible : ne touchez jamais le museau.",
+"en": "Present the tip of a target about five centimeters from the nose. Leave a clear gap: never touch the muzzle.",
+"ar": "قدّم طرف الهدف على بُعد خمسة سنتيمترات تقريباً من الأنف. اترك مسافة واضحة: لا تلمس الخطم أبداً."
+},
+"Présentez maintenant une paume ouverte et verticale. Récompensez le contact volontaire de la patte sur la paume.": {
+"fr": "Présentez maintenant une paume ouverte et verticale. Récompensez le contact volontaire de la patte sur la paume.",
+"en": "Now present an open, vertical palm. Reward when the paw touches the palm voluntarily.",
+"ar": "قدّم الآن راحة يد مفتوحة وعمودية. كافئ أليفك عند ملامسة الكف لراحة يدك تلقائياً."
+},
+"Présentez une cible près de l’entrée pour inviter le chat à s’approcher. Cliquez et récompensez, sans bloquer la sortie.": {
+"fr": "Présentez une cible près de l’entrée pour inviter le chat à s’approcher. Cliquez et récompensez, sans bloquer la sortie.",
+"en": "Present a target near the entrance to invite the cat to approach. Click and reward, without blocking the exit.",
+"ar": "قدّم هدفاً قرب المدخل لتشجيع القطة على الاقتراب. اضغط على الكليكر وكافئها، دون إغلاق المخرج."
+},
+"Présentez une friandise dans une main fermée. Cliquez dès qu’une patte se lève ou touche la main, puis récompensez.": {
+"fr": "Présentez une friandise dans une main fermée. Cliquez dès qu’une patte se lève ou touche la main, puis récompensez.",
+"en": "Present a treat in a closed hand. Click as soon as a paw lifts or touches your hand, then reward.",
+"ar": "قدّم مكافأة في يد مغلقة. اضغط على الكليكر بمجرد رفع الكف أو لمسها ليدك، ثم قدّم المكافأة."
+},
+"Présentez à nouveau la friandise au nez et descendez plus lentement.": {
+"fr": "Présentez à nouveau la friandise au nez et descendez plus lentement.",
+"en": "Present the treat to the nose again and lower it more slowly.",
+"ar": "قرّب المكافأة من الأنف مجدداً وانزل بها ببطء أكبر."
+},
+"Quand il reste calme, fermez la porte une seconde, donnez une friandise puis rouvrez. Allongez la durée très progressivement.": {
+"fr": "Quand il reste calme, fermez la porte une seconde, donnez une friandise puis rouvrez. Allongez la durée très progressivement.",
+"en": "When they stay calm, close the door for a second, give a treat, then reopen it. Increase the duration very gradually.",
+"ar": "عندما يبقى هادئاً، أغلق الباب لثانية واحدة، قدّم مكافأة ثم أعد فتحه. زِد المدة بشكل تدريجي للغاية."
+},
+"Quand la patte rejoint régulièrement la paume, dites « tape-là » avant sa levée. Cliquez au contact puis récompensez.": {
+"fr": "Quand la patte rejoint régulièrement la paume, dites « tape-là » avant sa levée. Cliquez au contact puis récompensez.",
+"en": "When the paw meets the palm consistently, say “high five” before it lifts. Click upon contact, then reward.",
+"ar": "عندما تلامس الكف راحة اليد بانتظام، قل «كفك» قبل أن يرفعها. اضغط على الكليكر عند التلامس ثم كافئ."
+},
+"Quand le contact est régulier, dites « tape-là » juste avant la levée de patte. Présentez la paume puis récompensez.": {
+"fr": "Quand le contact est régulier, dites « tape-là » juste avant la levée de patte. Présentez la paume puis récompensez.",
+"en": "When contact is consistent, say “high five” just before the paw lifts. Present your palm, then reward.",
+"ar": "عندما يصبح التلامس منتظماً، قل «كفك» قبل رفع الكف مباشرة. قدّم راحة يدك ثم كافئ."
+},
+"Quand le contact est régulier, dites « touche » une fois avant de présenter la cible. Cliquez au contact et récompensez.": {
+"fr": "Quand le contact est régulier, dites « touche » une fois avant de présenter la cible. Cliquez au contact et récompensez.",
+"en": "When contact is consistent, say “touch” once before presenting the target. Click upon contact and reward.",
+"ar": "عندما يصبح التلامس منتظماً، قل «المس» مرة واحدة قبل تقديم الهدف. اضغط على الكليكر عند التلامس وكافئ."
+},
+"Quand le geste est devenu fiable, prononcez le mot choisi une seule fois, juste avant le mouvement. Récompensez sa réponse.": {
+"fr": "Quand le geste est devenu fiable, prononcez le mot choisi une seule fois, juste avant le mouvement. Récompensez sa réponse.",
+"en": "Once the gesture is reliable, say the cue word just once, right before the motion. Reward their response.",
+"ar": "عندما تصبح الإشارة باليد متقنة، انطق الكلمة المختارة مرة واحدة فقط قبل الحركة مباشرة. كافئ استجابته."
+},
+"Quand le mouvement est facile, dites « couché » une fois, puis faites le geste vers le tapis avec votre main. Récompensez les coudes au sol.": {
+"fr": "Quand le mouvement est facile, dites « couché » une fois, puis faites le geste vers le tapis avec votre main. Récompensez les coudes au sol.",
+"en": "When the motion is easy, say \"down\" once, then gesture toward the mat with your hand. Reward when their elbows touch the floor.",
+"ar": "عندما تصبح الحركة سهلة، قل «استلقِ» مرة واحدة، ثم أشر بيدك نحو البساط. كافئه بمجرد ملامسة مرفقيه للأرض."
+},
+"Quand l’assise est régulière, ajoutez « assis » juste avant le mouvement.": {
+"fr": "Quand l’assise est régulière, ajoutez « assis » juste avant le mouvement.",
+"en": "Once the sit is consistent, add \"sit\" right before the motion.",
+"ar": "عندما يصبح الجلوس منتظماً، أضف كلمة «اجلس» قبل الحركة مباشرة."
+},
+"Quatre pattes au sol, corps libre, tête tournée vers la friandise.": {
+"fr": "Quatre pattes au sol, corps libre, tête tournée vers la friandise.",
+"en": "Four paws on the floor, relaxed body, head turned toward the treat.",
+"ar": "القوائم الأربع على الأرض، وجسم مسترخٍ، ورأس ملتفت نحو المكافأة."
+},
+"Quatre pattes au sol, nez touchant la cible présentée.": {
+"fr": "Quatre pattes au sol, nez touchant la cible présentée.",
+"en": "Four paws on the floor, nose touching the presented target.",
+"ar": "القوائم الأربع على الأرض، والأنف يلامس الهدف المعروض."
+},
+"Quelques minutes suffisent.": {
+"fr": "Quelques minutes suffisent.",
+"en": "A few minutes are enough.",
+"ar": "بضع دقائق تكفي."
+},
+"Rangez les friandises et proposez une étape plus simple lors de la prochaine séance.": {
+"fr": "Rangez les friandises et proposez une étape plus simple lors de la prochaine séance.",
+"en": "Put the treats away and try a simpler step in the next session.",
+"ar": "احتفظ بالمكافآت جانباً وجرب خطوة أسهل في الجلسة القادمة."
+},
+"Rapprochez la récompense et félicitez le moindre essai volontaire.": {
+"fr": "Rapprochez la récompense et félicitez le moindre essai volontaire.",
+"en": "Bring the reward closer and praise any willing attempt.",
+"ar": "قرّب المكافأة وامتدح أي محاولة عفوية مهما كانت بسيطة."
+},
+"Recommencer sans précipitation": {
+"fr": "Recommencer sans précipitation",
+"en": "Start over without rushing",
+"ar": "إعادة المحاولة بكل هدوء"
+},
+"Recommencez jusqu’à obtenir une assise volontaire et stable. Marquez et récompensez dès que les fesses sont au sol.": {
+"fr": "Recommencez jusqu’à obtenir une assise volontaire et stable. Marquez et récompensez dès que les fesses sont au sol.",
+"en": "Repeat until you get a willing, steady sit. Mark and reward as soon as their bottom touches the floor.",
+"ar": "كرر حتى تحصل على جلوس طوعي وثابت. حدد السلوك وكافئه بمجرد ملامسة مؤخرته للأرض."
+},
+"Refresh the bowl and notice how much they drink.": {
+"fr": "Renouvelez l’eau de la gamelle et observez la quantité bue.",
+"en": "Refresh the bowl and notice how much they drink.",
+"ar": "جدد ماء الوعاء ولاحظ كمية شربه."
+},
+"Regarder la cible, sans contact à ce stade.": {
+"fr": "Regarder la cible, sans contact à ce stade.",
+"en": "Look at the target, with no contact at this stage.",
+"ar": "النظر إلى الهدف، دون تلامس في هذه المرحلة."
+},
+"Regarder la main au moment du clic.": {
+"fr": "Regarder la main au moment du clic.",
+"en": "Look at the hand at the sound of the click.",
+"ar": "النظر إلى اليد عند سماع صوت النقر."
+},
+"Regarder la main et prendre calmement la récompense.": {
+"fr": "Regarder la main et prendre calmement la récompense.",
+"en": "Look at the hand and calmly take the treat.",
+"ar": "النظر إلى اليد وتناول المكافأة بكل هدوء."
+},
+"Remontez le poing de quelques centimètres seulement. Récompensez une patte qui se lève à cette nouvelle hauteur.": {
+"fr": "Remontez le poing de quelques centimètres seulement. Récompensez une patte qui se lève à cette nouvelle hauteur.",
+"en": "Raise your fist by just a few centimeters. Reward a paw lifting to this new height.",
+"ar": "ارفع قبضتك بضعة سنتيمترات فقط. كافئ رفع الكف إلى هذا الارتفاع الجديد."
+},
+"Remplacer le leurre par une récompense": {
+"fr": "Remplacer le leurre par une récompense",
+"en": "Replace the lure with a reward",
+"ar": "استبدال وسيلة الإغراء بمكافأة"
+},
+"Rendre l’exercice plus facile": {
+"fr": "Rendre l’exercice plus facile",
+"en": "Make the exercise easier",
+"ar": "تبسيط التمرين"
+},
+"Replacez le chien à votre gauche et ne repartez que lorsque la laisse est détendue.": {
+"fr": "Replacez le chien à votre gauche et ne repartez que lorsque la laisse est détendue.",
+"en": "Reposition your dog on your left and only move forward when the leash is loose.",
+"ar": "أعد الكلب إلى جانبك الأيسر ولا تنطلق مجدداً إلا عندما يكون المقود مرتخياً."
+},
+"Reposez-la et récompensez.": {
+"fr": "Reposez-la et récompensez.",
+"en": "Set it back down and reward.",
+"ar": "أنزلها أرضاً ثم كافئ حيوانك."
+},
+"Reproduisez le même geste avec une main vide. Dès l’assise, donnez une friandise prise dans votre poche ou dans l’autre main.": {
+"fr": "Reproduisez le même geste avec une main vide. Dès l’assise, donnez une friandise prise dans votre poche ou dans l’autre main.",
+"en": "Repeat the same gesture with an empty hand. As soon as they sit, give a treat from your pocket or the other hand.",
+"ar": "كرر الإشارة ذاتها بيد فارغة. وبمجرد جلوسه، قدم له مكافأة من جيبك أو من يدك الأخرى."
+},
+"Respecter le choix du chat": {
+"fr": "Respecter le choix du chat",
+"en": "Respect the cat's choice",
+"ar": "احترام رغبة القطة"
+},
+"Rest is part of the routine.": {
+"fr": "Le repos fait partie de la routine.",
+"en": "Rest is part of the routine.",
+"ar": "الراحة جزء من الروتين."
+},
+"Reste": {
+"fr": "Reste",
+"en": "Stay",
+"ar": "ابقَ"
+},
+"Rester assis calmement.": {
+"fr": "Rester assis calmement.",
+"en": "Remain calmly seated.",
+"ar": "البقاء جالساً بكل هدوء."
+},
+"Rester assis en suivant une main sans friandise.": {
+"fr": "Rester assis en suivant une main sans friandise.",
+"en": "Stay sitting while following an empty hand.",
+"ar": "البقاء جالساً مع تتبع يد خالية من المكافآت."
+},
+"Rester assis et observer le poing près du sol.": {
+"fr": "Rester assis et observer le poing près du sol.",
+"en": "Stay sitting and watch the fist near the floor.",
+"ar": "البقاء جالساً ومراقبة القبضة بالقرب من الأرض."
+},
+"Rester assis face à la paume.": {
+"fr": "Rester assis face à la paume.",
+"en": "Stay sitting facing the palm.",
+"ar": "البقاء جالساً بمواجهة راحة اليد."
+},
+"Rester assis pendant votre retour.": {
+"fr": "Rester assis pendant votre retour.",
+"en": "Stay sitting as you return.",
+"ar": "البقاء جالساً أثناء عودتك."
+},
+"Rester calme à l’intérieur durant la fermeture très brève.": {
+"fr": "Rester calme à l’intérieur durant la fermeture très brève.",
+"en": "Stay calm inside during the very brief closure.",
+"ar": "البقاء هادئاً بالداخل خلال الإغلاق الوجيز جداً."
+},
+"Rester confortablement installé pendant un léger déplacement.": {
+"fr": "Rester confortablement installé pendant un léger déplacement.",
+"en": "Stay comfortably settled during a slight movement.",
+"ar": "البقاء مستقراً بارتياح أثناء حركة طفيفة."
+},
+"Rester debout et orienter le nez vers la main.": {
+"fr": "Rester debout et orienter le nez vers la main.",
+"en": "Stand and aim the nose toward the hand.",
+"ar": "الوقوف وتوجيه الأنف نحو اليد."
+},
+"Rester debout près de votre jambe pour manger.": {
+"fr": "Rester debout près de votre jambe pour manger.",
+"en": "Stand near your leg to eat.",
+"ar": "الوقوف بالقرب من ساقك لتناول الطعام."
+},
+"Retrouvez vos exercices et avancez à son rythme.": {
+"fr": "Retrouvez vos exercices et avancez à son rythme.",
+"en": "Find your exercises and move forward at their pace.",
+"ar": "اعثر على تمارينك وتقدم وفق وتيرته الخاصة."
+},
+"Revenez vers le chien avant de donner la friandise. Récompensez sur son tapis ; ne l’appelez pas hors de sa position.": {
+"fr": "Revenez vers le chien avant de donner la friandise. Récompensez sur son tapis ; ne l’appelez pas hors de sa position.",
+"en": "Return to the dog before giving the treat. Reward on their mat; do not call them out of position.",
+"ar": "عُد إلى الكلب قبل إعطاء المكافأة. كافئه على بساطه؛ ولا تناده للخروج من وضعيته."
+},
+"Revenir en position assise avant un nouvel essai.": {
+"fr": "Revenir en position assise avant un nouvel essai.",
+"en": "Return to a sit before trying again.",
+"ar": "العودة إلى وضعية الجلوس قبل المحاولة مرة أخرى."
+},
+"Revenir facilement à courte distance, longe souple.": {
+"fr": "Revenir facilement à courte distance, longe souple.",
+"en": "Recall easily from a short distance on a loose lead.",
+"ar": "العودة بسهولة من مسافة قصيرة بمقود مرتخٍ."
+},
+"Revenir récompenser sur place": {
+"fr": "Revenir récompenser sur place",
+"en": "Return to reward in place",
+"ar": "العودة للمكافأة في المكان نفسه"
+},
+"Revenir s’asseoir à votre gauche, laisse relâchée.": {
+"fr": "Revenir s’asseoir à votre gauche, laisse relâchée.",
+"en": "Return to sit on your left, with a loose leash.",
+"ar": "العودة للجلوس على يسارك، مع مقود مرتخٍ."
+},
+"Revenir vers la main pour une réussite facile.": {
+"fr": "Revenir vers la main pour une réussite facile.",
+"en": "Return to the hand for an easy success.",
+"ar": "العودة نحو اليد لتحقيق نجاح سهل."
+},
+"Revenir vers vous depuis une plus grande distance.": {
+"fr": "Revenir vers vous depuis une plus grande distance.",
+"en": "Return to you from a greater distance.",
+"ar": "العودة إليك من مسافة أبعد."
+},
+"Revenir à une difficulté facile": {
+"fr": "Revenir à une difficulté facile",
+"en": "Return to an easy difficulty",
+"ar": "العودة إلى مستوى صعوبة سهل"
+},
+"Reward a soft gaze, a wait, or a check-in during ordinary moments. Short, clear practice builds confidence without turning the day into a lesson.": {
+"fr": "Récompensez un regard doux, une attente ou une prise de contact lors des moments ordinaires. Une pratique courte et claire renforce la confiance sans transformer la journée en leçon.",
+"en": "Reward a soft gaze, a wait, or a check-in during ordinary moments. Short, clear practice builds confidence without turning the day into a lesson.",
+"ar": "كافئ النظرة الهادئة، أو الانتظار، أو الالتفات نحوك في اللحظات العادية. التدريب القصير والواضح يبني الثقة دون تحويل اليوم بأكمله إلى درس."
+},
+"Reward the behavior you want to see again.": {
+"fr": "Récompensez le comportement que vous souhaitez revoir.",
+"en": "Reward the behavior you want to see again.",
+"ar": "كافئ السلوك الذي ترغب في تكراره."
+},
+"Routine changes are worth noting.": {
+"fr": "Les changements de routine méritent d'être notés.",
+"en": "Routine changes are worth noting.",
+"ar": "تستحق التغييرات في الروتين التدوين."
+},
+"Récompenser chaque contact": {
+"fr": "Récompenser chaque contact",
+"en": "Reward each contact",
+"ar": "مكافأة كل تلامس"
+},
+"Récompenser et retirer le leurre": {
+"fr": "Récompenser et retirer le leurre",
+"en": "Reward and remove the lure",
+"ar": "المكافأة وسحب الإغراء"
+},
+"Récompenser immédiatement": {
+"fr": "Récompenser immédiatement",
+"en": "Reward immediately",
+"ar": "المكافأة فوراً"
+},
+"Récompenser le début du mouvement": {
+"fr": "Récompenser le début du mouvement",
+"en": "Reward the start of the movement",
+"ar": "مكافأة بداية الحركة"
+},
+"Récompenser le premier mouvement de patte": {
+"fr": "Récompenser le premier mouvement de patte",
+"en": "Reward the first paw movement",
+"ar": "مكافأة أول حركة للكف"
+},
+"Récompenser l’approche": {
+"fr": "Récompenser l’approche",
+"en": "Reward the approach",
+"ar": "مكافأة الاقتراب"
+},
+"Récompenser l’entrée volontaire": {
+"fr": "Récompenser l’entrée volontaire",
+"en": "Reward voluntary entry",
+"ar": "مكافأة الدخول الطوعي"
+},
+"Récompenser près de la jambe": {
+"fr": "Récompenser près de la jambe",
+"en": "Reward near the leg",
+"ar": "المكافأة بالقرب من الساق"
+},
+"Récompenser son arrivée": {
+"fr": "Récompenser son arrivée",
+"en": "Reward their arrival",
+"ar": "مكافأة وصوله"
+},
+"Récompensez avant qu’il ne bouge ; si nécessaire, raccourcissez l’attente.": {
+"fr": "Récompensez avant qu’il ne bouge ; si nécessaire, raccourcissez l’attente.",
+"en": "Reward before they move; if needed, shorten the wait.",
+"ar": "كافئ قبل أن يتحرك؛ وإذا لزم الأمر، قلل مدة الانتظار."
+},
+"Récompensez le contact volontaire de la patte sur la paume.": {
+"fr": "Récompensez le contact volontaire de la patte sur la paume.",
+"en": "Reward voluntary paw contact on the palm.",
+"ar": "كافئ لمس الكف لراحة يدك بطواعية."
+},
+"Récompensez le début de flexion des pattes arrière. Le bassin descend mais n’a pas encore besoin de toucher le sol.": {
+"fr": "Récompensez le début de flexion des pattes arrière. Le bassin descend mais n’a pas encore besoin de toucher le sol.",
+"en": "Reward the beginning of the bend in the back legs. The pelvis lowers but doesn’t need to touch the ground yet.",
+"ar": "كافئ بداية انثناء الساقين الخلفيتين. ينخفض الحوض ولكن لا داعي لأن يلامس الأرض بعد."
+},
+"Récompensez les coudes au sol.": {
+"fr": "Récompensez les coudes au sol.",
+"en": "Reward elbows on the ground.",
+"ar": "كافئ وضع المرفقين على الأرض."
+},
+"Récompensez les petits mouvements ; quelques essais suffisent avant une pause.": {
+"fr": "Récompensez les petits mouvements ; quelques essais suffisent avant une pause.",
+"en": "Reward small movements; a few tries are enough before taking a break.",
+"ar": "كافئ الحركات الصغيرة؛ تكفي بضع محاولات قبل أخذ استراحة."
+},
+"Récompensez même un retour lent.": {
+"fr": "Récompensez même un retour lent.",
+"en": "Reward even a slow return.",
+"ar": "كافئ العودة حتى وإن كانت بطيئة."
+},
+"Récompensez sa réponse.": {
+"fr": "Récompensez sa réponse.",
+"en": "Reward their response.",
+"ar": "كافئ استجابته."
+},
+"Récompensez sur son tapis ; ne l’appelez pas hors de sa position.": {
+"fr": "Récompensez sur son tapis ; ne l’appelez pas hors de sa position.",
+"en": "Reward on the mat; do not call them out of position.",
+"ar": "كافئ على البساط، ولا تنادِهِ لمغادرة مكانه."
+},
+"Récompensez un contact ou une patte qui s’approche de la paume.": {
+"fr": "Récompensez un contact ou une patte qui s’approche de la paume.",
+"en": "Reward any contact or a paw approaching your palm.",
+"ar": "كافئ أي تلامس أو اقتراب للكف من راحة يدك."
+},
+"Récompensez une patte qui se lève à cette nouvelle hauteur.": {
+"fr": "Récompensez une patte qui se lève à cette nouvelle hauteur.",
+"en": "Reward a paw lifting to this new height.",
+"ar": "كافئ رفع المخلب إلى هذا الارتفاع الجديد."
+},
+"Récompensez une première patte à l’intérieur, puis l’entrée complète. Laissez le chat rester ou ressortir librement.": {
+"fr": "Récompensez une première patte à l’intérieur, puis l’entrée complète. Laissez le chat rester ou ressortir librement.",
+"en": "Reward a first paw inside, then full entry. Let the cat stay or exit freely.",
+"ar": "كافئ وضع أول كف بالداخل، ثم الدخول بالكامل. دع القطة تبقى أو تخرج بحرية."
+},
+"Réduire": {
+"fr": "Réduire",
+"en": "Reduce",
+"ar": "تصغير"
+},
+"Réglez un minuteur sur trois à cinq minutes. Alternez de petites réussites et des pauses, puis terminez avant que votre chien ne se fatigue.": {
+"fr": "Réglez un minuteur sur trois à cinq minutes. Alternez de petites réussites et des pauses, puis terminez avant que votre chien ne se fatigue.",
+"en": "Set a timer for three to five minutes. Alternate small successes with breaks, then finish before your dog gets tired.",
+"ar": "اضبط مؤقتاً من ثلاث إلى خمس دقائق. بدّل بين نجاحات صغيرة وفترات استراحة، ثم أنهِ الجلسة قبل أن يتعب كلبك."
+},
+"Réinitialiser": {
+"fr": "Réinitialiser",
+"en": "Reset",
+"ar": "إعادة تعيين"
+},
+"Réinitialiser cet exercice": {
+"fr": "Réinitialiser cet exercice",
+"en": "Reset this exercise",
+"ar": "إعادة تعيين هذا التمرين"
+},
+"Réinitialiser la progression de cet exercice ?": {
+"fr": "Réinitialiser la progression de cet exercice ?",
+"en": "Reset progress for this exercise?",
+"ar": "إعادة تعيين التقدم في هذا التمرين؟"
+},
+"Réinitialiser si la laisse se tend": {
+"fr": "Réinitialiser si la laisse se tend",
+"en": "Reset if the leash tightens",
+"ar": "أعد البدء إذا انشدّ المقود"
+},
+"Répondre au geste puis au mot, sans répétition insistante.": {
+"fr": "Répondre au geste puis au mot, sans répétition insistante.",
+"en": "Respond to the gesture then to the cue, without insistent repetition.",
+"ar": "الاستجابة للإشارة ثم للكلمة، دون إلحاح في التكرار."
+},
+"Répéter sans forcer la posture": {
+"fr": "Répéter sans forcer la posture",
+"en": "Repeat without forcing the posture",
+"ar": "كرر دون إجبار على الوضعية"
+},
+"Répétez les contacts en courtes séries. Visez environ dix réussites réparties sur plusieurs séances, sans insister.": {
+"fr": "Répétez les contacts en courtes séries. Visez environ dix réussites réparties sur plusieurs séances, sans insister.",
+"en": "Repeat touches in short sets. Aim for about ten successes spread across multiple sessions, without pushing too hard.",
+"ar": "كرر التلامسات في مجموعات قصيرة. استهدف حوالي عشر محاولات ناجحة موزعة على عدة جلسات، دون إلحاح."
+},
+"Répétez quelques fois sans demander un exercice.": {
+"fr": "Répétez quelques fois sans demander un exercice.",
+"en": "Repeat a few times without asking for an exercise.",
+"ar": "كرر بضع مرات دون طلب أي تمرين."
+},
+"Répétez à différents moments calmes de la journée. Gardez le même signal et récompensez chaque arrivée.": {
+"fr": "Répétez à différents moments calmes de la journée. Gardez le même signal et récompensez chaque arrivée.",
+"en": "Repeat at different quiet times throughout the day. Keep the same cue and reward every arrival.",
+"ar": "كرر في أوقات هادئة ومختلفة من اليوم. حافظ على الإشارة نفسها وكافئ كل استجابة عند الوصول."
+},
+"SAFETY / 05": {
+"fr": "SAFETY / 05",
+"en": "SAFETY / 05",
+"ar": "الأمان / 05"
+},
+"SON ACTIVITÉ PRÉFÉRÉE": {
+"fr": "SON ACTIVITÉ PRÉFÉRÉE",
+"en": "FAVORITE ACTIVITY",
+"ar": "نشاطه المفضل"
+},
+"SON ÂGE": {
+"fr": "SON ÂGE",
+"en": "AGE",
+"ar": "عمره"
+},
+"SUR": {
+"fr": "SUR",
+"en": "ON",
+"ar": "على"
+},
+"Se coucher à la suite du signal et du geste.": {
+"fr": "Se coucher à la suite du signal et du geste.",
+"en": "Lie down following the cue and gesture.",
+"ar": "الاستلقاء تبعاً للإشارة والإيماءة."
+},
+"Se détendre pendant une courte pause.": {
+"fr": "Se détendre pendant une courte pause.",
+"en": "Relax during a short break.",
+"ar": "الاسترخاء خلال استراحة قصيرة."
+},
+"Se lever et quitter le tapis après le mot de libération.": {
+"fr": "Se lever et quitter le tapis après le mot de libération.",
+"en": "Stand up and leave the mat after the release word.",
+"ar": "الوقوف ومغادرة البساط بعد كلمة التحرير."
+},
+"Se placer au côté gauche": {
+"fr": "Se placer au côté gauche",
+"en": "Position on the left side",
+"ar": "الوقوف على الجانب الأيسر"
+},
+"Se reposer sur le tapis entre les essais.": {
+"fr": "Se reposer sur le tapis entre les essais.",
+"en": "Rest on the mat between trials.",
+"ar": "الراحة على البساط بين المحاولات."
+},
+"Si besoin, guidez une friandise juste au-dessus et légèrement derrière la tête. Déplacez-la lentement sans toucher le chat.": {
+"fr": "Si besoin, guidez une friandise juste au-dessus et légèrement derrière la tête. Déplacez-la lentement sans toucher le chat.",
+"en": "If needed, lure with a treat just above and slightly behind the head. Move it slowly without touching the cat.",
+"ar": "إذا لزم الأمر، وجّه مكافأة فوق الرأس مباشرة وإلى الخلف قليلاً. حرّكها ببطء دون لمس القطة."
+},
+"Si la laisse se tend, arrêtez-vous. Replacez le chien à votre gauche et ne repartez que lorsque la laisse est détendue.": {
+"fr": "Si la laisse se tend, arrêtez-vous. Replacez le chien à votre gauche et ne repartez que lorsque la laisse est détendue.",
+"en": "If the leash tightens, stop. Reposition your dog to your left and only move forward when the leash is loose.",
+"ar": "إذا انشدّ المقود، توقف. أعد وضع الكلب إلى يسارك ولا تواصل المسير إلا عندما يرتخي المقود."
+},
+"Si le chien se relève, remettez-vous au départ assis. Présentez à nouveau la friandise au nez et descendez plus lentement.": {
+"fr": "Si le chien se relève, remettez-vous au départ assis. Présentez à nouveau la friandise au nez et descendez plus lentement.",
+"en": "If your dog stands up, return to the seated starting position. Present the treat at the nose again and lower it more slowly.",
+"ar": "إذا وقف الكلب، عُد إلى وضع البداية بالجلوس. قرّب المكافأة من أنفه مجدداً واخفضها ببطء أكبر."
+},
+"Si le rappel devient hésitant, revenez à une courte distance dans un endroit calme. Récompensez même un retour lent.": {
+"fr": "Si le rappel devient hésitant, revenez à une courte distance dans un endroit calme. Récompensez même un retour lent.",
+"en": "If the recall becomes hesitant, go back to a short distance in a quiet spot. Reward even a slow return.",
+"ar": "إذا تردد الكلب في تلبية النداء، فارجع إلى مسافة قصيرة في مكان هادئ. كافئ حتى العودة البطيئة."
+},
+"Si votre chien hésite, revenez à une demande plus simple. Rapprochez la récompense et félicitez le moindre essai volontaire.": {
+"fr": "Si votre chien hésite, revenez à une demande plus simple. Rapprochez la récompense et félicitez le moindre essai volontaire.",
+"en": "If your dog hesitates, step back to a simpler cue. Bring the reward closer and praise any willing attempt.",
+"ar": "إذا تردد كلبك، فارجع إلى طلب أبسط. قرّب المكافأة وامتدح أي محاولة طوعية منه."
+},
+"Small checks keep comfort close.": {
+"fr": "De petits contrôles préservent le confort.",
+"en": "Small checks keep comfort close.",
+"ar": "الفحوصات البسيطة تضمن الراحة دائماً."
+},
+"Small signals say a lot.": {
+"fr": "Les petits signaux en disent long.",
+"en": "Small signals say a lot.",
+"ar": "الإشارات الصغيرة تعبّر عن الكثير."
+},
+"So this space is intentionally small. It turns everyday care into a handful of gentle rituals, translates common questions into clear starting points, and keeps the focus on the relationship you already have.": {
+"fr": "Cet espace est donc volontairement réduit. Il transforme les soins quotidiens en quelques rituels tout doux, traduit les questions fréquentes en points de départ clairs, et garde l'accent sur la relation que vous partagez déjà.",
+"en": "So this space is intentionally small. It turns everyday care into a handful of gentle rituals, translates common questions into clear starting points, and keeps the focus on the relationship you already have.",
+"ar": "لذا صُممت هذه المساحة لتكون بسيطة وهادئة عمداً. فهي تحوّل الرعاية اليومية إلى طقوس لطيفة، وتترجم الأسئلة الشائعة إلى خطوات بداية واضحة، وتبقي التركيز على الرابطة الجميلة بينكما."
+},
+"Soins accomplis": {
+"fr": "Soins accomplis",
+"en": "Care completed",
+"ar": "اكتملت الرعاية"
+},
+"Son comportement et les conseils de votre vétérinaire restent les meilleurs repères.": {
+"fr": "Son comportement et les conseils de votre vétérinaire restent les meilleurs repères.",
+"en": "Their behavior and your vet's advice remain the best guide.",
+"ar": "يبقى سلوك أليفك ونصائح طبيبك البيطري أفضل دليل."
+},
+"Son âge en années": {
+"fr": "Son âge en années",
+"en": "Age in years",
+"ar": "العمر بالسنوات"
+},
+"Soulever puis déplacer doucement": {
+"fr": "Soulever puis déplacer doucement",
+"en": "Gently lift, then move",
+"ar": "الرفع ثم التحريك بلطف"
+},
+"Soulevez la caisse de quelques centimètres en soutenant sa base, puis faites quelques pas lents. Reposez-la et récompensez.": {
+"fr": "Soulevez la caisse de quelques centimètres en soutenant sa base, puis faites quelques pas lents. Reposez-la et récompensez.",
+"en": "Lift the crate a few inches while supporting its base, then take a few slow steps. Set it down and reward.",
+"ar": "ارفع القفص بضعة سنتيمترات مع دعم قاعدته، ثم اخطُ بضع خطوات بطيئة. أنزله وكافئ أليفك."
+},
+"Suivant": {
+"fr": "Suivant",
+"en": "Next",
+"ar": "التالي"
+},
+"Suivre et toucher une cible avec le nez.": {
+"fr": "Suivre et toucher une cible avec le nez.",
+"en": "Follow and touch a target with the nose.",
+"ar": "تتبع الهدف ولمسه بالأنف."
+},
+"Suivre la friandise avec le nez vers le haut.": {
+"fr": "Suivre la friandise avec le nez vers le haut.",
+"en": "Follow the treat with the nose upward.",
+"ar": "تتبع المكافأة بالأنف نحو الأعلى."
+},
+"Suivre le virage sans dépasser ni tirer.": {
+"fr": "Suivre le virage sans dépasser ni tirer.",
+"en": "Follow the turn without overtaking or pulling.",
+"ar": "اتباع المنعطف دون تجاوز أو شد."
+},
+"Sécurité": {
+"fr": "Sécurité",
+"en": "Safety",
+"ar": "الأمان"
+},
+"S’arrêter près de vous pour recevoir la récompense.": {
+"fr": "S’arrêter près de vous pour recevoir la récompense.",
+"en": "Stop near you to receive the reward.",
+"ar": "التوقف بالقرب منك لتلقي المكافأة."
+},
+"S’asseoir au signal avec une main sans leurre.": {
+"fr": "S’asseoir au signal avec une main sans leurre.",
+"en": "Sit on a hand signal without a lure.",
+"ar": "الجلوس عند إشارة اليد دون استدراج بمكافأة."
+},
+"S’asseoir complètement, sans pression physique.": {
+"fr": "S’asseoir complètement, sans pression physique.",
+"en": "Sit completely, without physical pressure.",
+"ar": "الجلوس بالكامل، دون ضغط جسدي."
+},
+"S’asseoir naturellement.": {
+"fr": "S’asseoir naturellement.",
+"en": "Sit naturally.",
+"ar": "الجلوس بشكل طبيعي."
+},
+"S’asseoir à votre gauche, regard vers la hanche.": {
+"fr": "S’asseoir à votre gauche, regard vers la hanche.",
+"en": "Sit on your left, looking toward your hip.",
+"ar": "الجلوس على يسارك، مع النظر باتجاه الورك."
+},
+"S’il s’éloigne, laissez-le partir. Rangez les friandises et proposez une étape plus simple lors de la prochaine séance.": {
+"fr": "S’il s’éloigne, laissez-le partir. Rangez les friandises et proposez une étape plus simple lors de la prochaine séance.",
+"en": "If they walk away, let them go. Put the treats away and try an easier step in the next session.",
+"ar": "إذا ابتعد، دعه يذهب. احفظ المكافآت جانباً وجرّب خطوة أسهل في الجلسة التالية."
+},
+"S’éloigner librement quand il ne souhaite plus participer.": {
+"fr": "S’éloigner librement quand il ne souhaite plus participer.",
+"en": "Walk away freely when no longer wishing to participate.",
+"ar": "الابتعاد بحرية عندما لا يرغب في مواصلة التدريب."
+},
+"TRAINING / 04": {
+"fr": "ENTRAÎNEMENT / 04",
+"en": "TRAINING / 04",
+"ar": "التدريب / 04"
+},
+"Tape-là": {
+"fr": "Tape-là",
+"en": "High five",
+"ar": "كفك"
+},
+"Tenez-vous face au chien, présentez une paume verticale et dites « reste » une seule fois.": {
+"fr": "Tenez-vous face au chien, présentez une paume verticale et dites « reste » une seule fois.",
+"en": "Stand facing the dog, show a flat vertical palm, and say \"stay\" just once.",
+"ar": "قف بمواجهة الكلب، واعرض راحة يدك عمودياً وقُل «ابقَ» مرة واحدة فقط."
+},
+"The morning reset": {
+"fr": "Le rituel du matin",
+"en": "The morning reset",
+"ar": "الروتين الصباحي الهادئ"
+},
+"Then do the thing.": {
+"fr": "Et lancez-vous.",
+"en": "Then do the thing.",
+"ar": "ثم ابدأ بالخطوة."
+},
+"Tiny training moments add up.": {
+"fr": "Chaque petit moment d'entraînement compte.",
+"en": "Tiny training moments add up.",
+"ar": "لحظات التدريب القصيرة تصنع فارقاً كبيراً."
+},
+"Touche la cible": {
+"fr": "Touche la cible",
+"en": "Touch the target",
+"ar": "المس الهدف"
+},
+"Toucher doucement le bout de la cible avec le nez.": {
+"fr": "Toucher doucement le bout de la cible avec le nez.",
+"en": "Gently touch the tip of the target with the nose.",
+"ar": "لمس طرف الهدف بلطف بالأنف."
+},
+"Toucher la cible au signal « touche ».": {
+"fr": "Toucher la cible au signal « touche ».",
+"en": "Touch the target on the \"touch\" cue.",
+"ar": "لمس الهدف عند إشارة «المس»."
+},
+"Toucher la paume avec une patte.": {
+"fr": "Toucher la paume avec une patte.",
+"en": "Touch the palm with a paw.",
+"ar": "لمس راحة اليد بالكف."
+},
+"Toucher la paume volontairement.": {
+"fr": "Toucher la paume volontairement.",
+"en": "Touch the palm voluntarily.",
+"ar": "لمس راحة اليد بإرادته."
+},
+"Toucher la paume à la suite du signal.": {
+"fr": "Toucher la paume à la suite du signal.",
+"en": "Touch the palm following the cue.",
+"ar": "لمس راحة اليد بعد الإشارة."
+},
+"Tour amusant": {
+"fr": "Tour amusant",
+"en": "Fun trick",
+"ar": "خدعة ممتعة"
+},
+"Tourner la tête et le corps vers vous.": {
+"fr": "Tourner la tête et le corps vers vous.",
+"en": "Turn the head and body toward you.",
+"ar": "إدارة الرأس والجسم نحوك."
+},
+"Training": {
+"fr": "Entraînement",
+"en": "Training",
+"ar": "تدريب"
+},
+"Two minutes still counts.": {
+"fr": "Deux minutes comptent quand même.",
+"en": "Two minutes still counts.",
+"ar": "حتى دقيقتان تصنعان فارقاً."
+},
+"Tête relevée, pattes arrière commençant à fléchir.": {
+"fr": "Tête relevée, pattes arrière commençant à fléchir.",
+"en": "Head up, back legs beginning to bend.",
+"ar": "الرأس مرفوع، والقائمتان الخلفيتان تبدآن في الانثناء."
+},
+"Un adulte plein de curiosité.": {
+"fr": "Un adulte plein de curiosité.",
+"en": "A curious adult.",
+"ar": "بالغ مفعم بالفضول."
+},
+"Un chat": {
+"fr": "Un chat",
+"en": "A cat",
+"ar": "قط"
+},
+"Un chien": {
+"fr": "Un chien",
+"en": "A dog",
+"ar": "كلب"
+},
+"Un chien détendu près de sa récompense": {
+"fr": "Un chien détendu près de sa récompense",
+"en": "A relaxed dog near their treat",
+"ar": "كلب مسترخٍ بجانب مكافأته"
+},
+"Un contact de patte complice, appris tout en douceur.": {
+"fr": "Un contact de patte complice, appris tout en douceur.",
+"en": "A friendly paw touch, learned gently.",
+"ar": "لمسة كف لطيفة، تم تعلّمها بكل رفق."
+},
+"Un jeune compagnon curieux.": {
+"fr": "Un jeune compagnon curieux.",
+"en": "A curious young companion.",
+"ar": "رفيق صغير فضولي."
+},
+"Un lien plus fort.": {
+"fr": "Un lien plus fort.",
+"en": "A stronger bond.",
+"ar": "رابطة أقوى."
+},
+"Un petit détail à garder près de soi.": {
+"fr": "Un petit détail à garder près de soi.",
+"en": "A little detail to keep close.",
+"ar": "تفصيل صغير يستحق أن تبقيه قريباً."
+},
+"Un petit pas.": {
+"fr": "Un petit pas.",
+"en": "A small step.",
+"ar": "خطوة صغيرة."
+},
+"Un peu de patience.": {
+"fr": "Un peu de patience.",
+"en": "A little patience.",
+"ar": "قليل من الصبر."
+},
+"Un retour joyeux pour renforcer confiance et sécurité.": {
+"fr": "Un retour joyeux pour renforcer confiance et sécurité.",
+"en": "A joyful recall to strengthen trust and safety.",
+"ar": "استجابة مرحة للنداء لتعزيز الثقة والأمان."
+},
+"Un sage plein d’histoires.": {
+"fr": "Un sage plein d’histoires.",
+"en": "A wise one full of stories.",
+"ar": "حكيم مفعم بالقصص."
+},
+"Un tapis antidérapant aide à garder les pattes avant stables. Récompensez le plus petit progrès.": {
+"fr": "Un tapis antidérapant aide à garder les pattes avant stables. Récompensez le plus petit progrès.",
+"en": "A non-slip mat helps keep the front paws steady. Reward even the smallest progress.",
+"ar": "تساعد السجادة المقاومة للانزلاق في الحفاظ على ثبات القائمتين الأماميتين. كافئ حتى أصغر تقدم."
+},
+"Un tout petit qui grandit.": {
+"fr": "Un tout petit qui grandit.",
+"en": "A little one growing up.",
+"ar": "صغير ينمو ويكبر."
+},
+"Une assise volontaire, sans jamais forcer le mouvement.": {
+"fr": "Une assise volontaire, sans jamais forcer le mouvement.",
+"en": "A voluntary sit, without ever forcing the movement.",
+"ar": "جلوس طوعي، دون إجبار على الحركة أبداً."
+},
+"Une caresse n’est ajoutée que s’il apprécie le contact.": {
+"fr": "Une caresse n’est ajoutée que s’il apprécie le contact.",
+"en": "Only add gentle petting if they enjoy the contact.",
+"ar": "لا تُضَف الملاطفة إلا إذا كان يستمتع باللمس."
+},
+"Une fois facile, reculez d’un seul petit pas en gardant la paume visible.": {
+"fr": "Une fois facile, reculez d’un seul petit pas en gardant la paume visible.",
+"en": "Once easy, take a single small step back while keeping your palm visible.",
+"ar": "بمجرد أن يصبح الأمر سهلاً، تراجع خطوة صغيرة واحدة إلى الخلف مع إبقاء راحة يدك مرئية."
+},
+"Une grande complicité.": {
+"fr": "Une grande complicité.",
+"en": "A wonderful bond.",
+"ar": "ألفة ومودة كبيرة."
+},
+"Une petite attention reste une belle attention.": {
+"fr": "Une petite attention reste une belle attention.",
+"en": "A little gesture is still a lovely gesture.",
+"ar": "حتى الاهتمام البسيط يظل لفتة جميلة."
+},
+"Une petite réussite.": {
+"fr": "Une petite réussite.",
+"en": "A small win.",
+"ar": "نجاح صغير."
+},
+"Une surface moelleuse rend le contact des coudes plus confortable.": {
+"fr": "Une surface moelleuse rend le contact des coudes plus confortable.",
+"en": "A soft surface makes elbow contact more comfortable.",
+"ar": "السطح الناعم يجعل ملامسة المرفقين للأرض أكثر راحة."
+},
+"Une séance sereine, des récompenses au bon moment.": {
+"fr": "Une séance sereine, des récompenses au bon moment.",
+"en": "A calm session, rewards at just the right moment.",
+"ar": "جلسة هادئة، ومكافآت في اللحظة المناسبة."
+},
+"Une voix joyeuse et une belle récompense rendent chaque retour agréable.": {
+"fr": "Une voix joyeuse et une belle récompense rendent chaque retour agréable.",
+"en": "A cheerful voice and a wonderful treat make every recall pleasant.",
+"ar": "صوت مبهج ومكافأة شهية يجعلان كل رجوع تجربة ممتعة."
+},
+"Utilisez toujours le même son.": {
+"fr": "Utilisez toujours le même son.",
+"en": "Always use the same sound.",
+"ar": "استخدم دائماً الصوت نفسه."
+},
+"Utilisez une longe détendue dehors.": {
+"fr": "Utilisez une longe détendue dehors.",
+"en": "Use a loose long line outdoors.",
+"ar": "استخدم حبلاً طويلاً مرتخياً في الخارج."
+},
+"Valider cette étape": {
+"fr": "Valider cette étape",
+"en": "Validate this step",
+"ar": "تأكيد هذه الخطوة"
+},
+"Venir sans leurre visible, puis profiter du jeu.": {
+"fr": "Venir sans leurre visible, puis profiter du jeu.",
+"en": "Come without a visible lure, then enjoy play.",
+"ar": "القدوم دون إغراء مرئي، ثم الاستمتاع باللعب."
+},
+"Venir vers vous au même signal dans un autre contexte.": {
+"fr": "Venir vers vous au même signal dans un autre contexte.",
+"en": "Come to you on the same cue in a different context.",
+"ar": "القدوم إليك عند نفس الإشارة في سياق مختلف."
+},
+"Viens": {
+"fr": "Viens",
+"en": "Come",
+"ar": "تعالَ"
+},
+"Visez environ dix réussites réparties sur plusieurs séances, sans insister.": {
+"fr": "Visez environ dix réussites réparties sur plusieurs séances, sans insister.",
+"en": "Aim for about ten successes spread over several sessions, without pushing.",
+"ar": "استهدف حوالي عشر نجاحات موزعة على عدة جلسات، دون إلحاح."
+},
+"Votre action": {
+"fr": "Votre action",
+"en": "Your action",
+"ar": "خطوتك"
+},
+"Votre petit programme du jour.": {
+"fr": "Votre petit programme du jour.",
+"en": "Your little plan for today.",
+"ar": "برنامجك اللطيف لهذا اليوم."
+},
+"Vous rejoindre et prendre la friandise.": {
+"fr": "Vous rejoindre et prendre la friandise.",
+"en": "Reach you and take the treat.",
+"ar": "الوصول إليك وأخذ المكافأة."
+},
+"Walks are a conversation": {
+"fr": "Les promenades sont une conversation",
+"en": "Walks are a conversation",
+"ar": "النزهات هي بمثابة حوار"
+},
+"activity": {
+"fr": "activité",
+"en": "activity",
+"ar": "نشاط"
+},
+"age": {
+"fr": "âge",
+"en": "age",
+"ar": "العمر"
+},
+"ans": {
+"fr": "ans",
+"en": "years",
+"ar": "سنوات"
+},
+"ans humains": {
+"fr": "ans humains",
+"en": "human years",
+"ar": "سنوات بشرية"
+},
+"basics": {
+"fr": "bases",
+"en": "basics",
+"ar": "الأساسيات"
+},
+"exercices": {
+"fr": "exercices",
+"en": "exercises",
+"ar": "تمارين"
+},
+"grands liens": {
+"fr": "grands liens",
+"en": "strong bonds",
+"ar": "روابط وثيقة"
+},
+"name": {
+"fr": "nom",
+"en": "name",
+"ar": "الاسم"
+},
+"petits pas,": {
+"fr": "petits pas,",
+"en": "small steps,",
+"ar": "خطوات صغيرة،"
+},
+"prennent peu de temps.": {
+"fr": "prennent peu de temps.",
+"en": "take little time.",
+"ar": "تستغرق وقتاً قصيراً."
+},
+"soins accomplis": {
+"fr": "soins accomplis",
+"en": "care tasks completed",
+"ar": "مهام رعاية مكتملة"
+},
+"soins sur 7 accomplis": {
+"fr": "soins sur 7 accomplis",
+"en": "care tasks out of 7 completed",
+"ar": "مهام رعاية مكتملة من أصل 7"
+},
+"species": {
+"fr": "espèce",
+"en": "species",
+"ar": "النوع"
+},
+"years": {
+"fr": "ans",
+"en": "years",
+"ar": "سنوات"
+},
+"À leur rythme, toujours.": {
+"fr": "À leur rythme, toujours.",
+"en": "At their own pace, always.",
+"ar": "بوتيرتهم الخاصة، دائماً."
+},
+"À propos": {
+"fr": "À propos",
+"en": "About",
+"ar": "حول"
+},
+"À son arrivée, donnez plusieurs petites friandises et félicitez-le. Une caresse n’est ajoutée que s’il apprécie le contact.": {
+"fr": "À son arrivée, donnez plusieurs petites friandises et félicitez-le. Une caresse n’est ajoutée que s’il apprécie le contact.",
+"en": "When they arrive, give several small treats and praise them. Only add a stroke if they enjoy the contact.",
+"ar": "عند وصوله، قدّم له عدة مكافآت صغيرة واثنِ عليه. لا تضف لمسة ملاطفة إلا إذا كان يستمتع باللمس."
+},
+"À son arrivée, récompensez avec une friandise ou un bref jeu à la canne à pêche.": {
+"fr": "À son arrivée, récompensez avec une friandise ou un bref jeu à la canne à pêche.",
+"en": "When they arrive, reward with a treat or a brief wand-toy game.",
+"ar": "عند وصوله، كافئه بمكافأة خفيفة أو بلعبة قصيرة بعصا اللعب."
+},
+"À son rythme. Sans jamais forcer.": {
+"fr": "À son rythme. Sans jamais forcer.",
+"en": "At their own pace. Never forcing.",
+"ar": "بوتيرته الخاصة. دون أي إجبار على الإطلاق."
+},
+"Âge en années": {
+"fr": "Âge en années",
+"en": "Age in years",
+"ar": "العمر بالسنوات"
+},
+"ÉTAPE": {
+"fr": "ÉTAPE",
+"en": "STEP",
+"ar": "الخطوة"
+},
+"Éducation": {
+"fr": "Éducation",
+"en": "Training",
+"ar": "التدريب"
+},
+"Éloigner la cible de quelques pas": {
+"fr": "Éloigner la cible de quelques pas",
+"en": "Move the target a few steps away",
+"ar": "إبعاد الهدف بضع خطوات"
+},
+"Éloignez la cible de quelques pas, à hauteur du nez. Laissez le chat marcher jusqu’à elle et récompensez le contact.": {
+"fr": "Éloignez la cible de quelques pas, à hauteur du nez. Laissez le chat marcher jusqu’à elle et récompensez le contact.",
+"en": "Move the target a few steps away, at nose height. Let the cat walk up to it and reward the contact.",
+"ar": "أبعد الهدف بضع خطوات، على مستوى الأنف. دع القطة تمشي نحوه وكافئها عند لمسه."
+},
+"Épaule alignée avec la jambe gauche, laisse en courbe souple.": {
+"fr": "Épaule alignée avec la jambe gauche, laisse en courbe souple.",
+"en": "Shoulder aligned with the left leg, leash in a loose curve.",
+"ar": "الكتف بمحاذاة الساق اليسرى، والمقود منحنٍ بانسيابية."
+},
+"Étape": {
+"fr": "Étape",
+"en": "Step",
+"ar": "الخطوة"
+},
+"Étape validée": {
+"fr": "Étape validée",
+"en": "Step completed",
+"ar": "تمت الخطوة"
+},
+"étapes": {
+"fr": "étapes",
+"en": "steps",
+"ar": "خطوات"
+},
+"étapes validées": {
+"fr": "étapes validées",
+"en": "steps completed",
+"ar": "خطوات مكتملة"
+},
+"“The best care plan is the one you can come back to tomorrow.”": {
+"fr": "« Le meilleur plan de soins est celui auquel vous pouvez revenir demain. »",
+"en": "“The best care plan is the one you can come back to tomorrow.”",
+"ar": "“أفضل خطة رعاية هي تلك التي يمكنك العودة إليها غداً.”"
+},
+"AUJOURD’HUI, SIMPLEMENT": {
+"fr": "AUJOURD’HUI, SIMPLEMENT",
+"en": "TODAY, KEEP IT SIMPLE",
+"ar": "اليوم، بكل بساطة"
+},
+"Bonjour, les bonnes habitudes.": {
+"fr": "Bonjour, les bonnes habitudes.",
+"en": "Hello, good habits.",
+"ar": "أهلًا، بالعادات الجيدة."
+},
+"CALCULER SON ÂGE": {
+"fr": "CALCULER SON ÂGE",
+"en": "CALCULATE THEIR AGE",
+"ar": "احسب عمر رفيقك"
+},
+"CHAQUE JOUR COMPTE": {
+"fr": "CHAQUE JOUR COMPTE",
+"en": "EVERY DAY MATTERS",
+"ar": "كل يوم يصنع فرقًا"
+},
+"Celui que vous connaissez par cœur.": {
+"fr": "Celui que vous connaissez par cœur.",
+"en": "The one you know by heart.",
+"ar": "رفيقك الذي تعرفه حق المعرفة."
+},
+"Chaque attention compte. Demain, une nouvelle page.": {
+"fr": "Chaque attention compte. Demain, une nouvelle page.",
+"en": "Every act of care matters. Tomorrow, a new page.",
+"ar": "كل لفتة اهتمام تصنع فرقًا. غدًا، صفحة جديدة."
+},
+"Chaque âge, son chapitre.": {
+"fr": "Chaque âge, son chapitre.",
+"en": "Every age, its own chapter.",
+"ar": "لكل عمر، فصله الخاص."
+},
+"Des soins qui trouvent leur place dans la vraie vie.": {
+"fr": "Des soins qui trouvent leur place dans la vraie vie.",
+"en": "Care that fits into real life.",
+"ar": "رعاية تنسجم مع حياتك اليومية."
+},
+"LES SOINS": {
+"fr": "LES SOINS",
+"en": "CARE",
+"ar": "الرعاية"
+},
+"Les bonnes informations. Avec douceur.": {
+"fr": "Les bonnes informations. Avec douceur.",
+"en": "The right information. Gently shared.",
+"ar": "المعلومات المناسبة. بكل لطف."
+},
+"Les petits détails qui font toute la différence.": {
+"fr": "Les petits détails qui font toute la différence.",
+"en": "The little details that make all the difference.",
+"ar": "التفاصيل الصغيرة التي تصنع كل الفرق."
+},
+"Les petits repères entre le petit-déjeuner et l’heure du coucher.": {
+"fr": "Les petits repères entre le petit-déjeuner et l’heure du coucher.",
+"en": "Little routines between breakfast and bedtime.",
+"ar": "عادات صغيرة بين الإفطار وموعد النوم."
+},
+"MON COMPAGNON": {
+"fr": "MON COMPAGNON",
+"en": "MY COMPANION",
+"ar": "رفيقي"
+},
+"NOTRE APPROCHE": {
+"fr": "NOTRE APPROCHE",
+"en": "OUR APPROACH",
+"ar": "نهجنا"
+},
+"Observer. Prendre soin. Célébrer.": {
+"fr": "Observer. Prendre soin. Célébrer.",
+"en": "Observe. Care. Celebrate.",
+"ar": "لاحظ. اعتنِ. احتفل."
+},
+"PETITS CONSEILS": {
+"fr": "PETITS CONSEILS",
+"en": "QUICK TIPS",
+"ar": "نصائح بسيطة"
+},
+"Un bon conseil à la fois.": {
+"fr": "Un bon conseil à la fois.",
+"en": "One helpful tip at a time.",
+"ar": "نصيحة مفيدة في كل مرة."
+},
+"Une attention, un jeu, un moment ensemble. Prenez soin de votre meilleur ami.": {
+"fr": "Une attention, un jeu, un moment ensemble. Prenez soin de votre meilleur ami.",
+"en": "A little care, a game, a moment together. Take care of your best friend.",
+"ar": "لفتة اهتمام، لعبة، لحظة معًا. اعتنِ بأفضل أصدقائك."
+},
+"Une estimation amicale, à compléter avec les conseils de votre vétérinaire.": {
+"fr": "Une estimation amicale, à compléter avec les conseils de votre vétérinaire.",
+"en": "A friendly estimate, best paired with your vet’s advice.",
+"ar": "تقدير مبدئي لمساعدتك، تُكمله نصائح طبيبك البيطري."
+},
+"Une petite attention pour aujourd’hui.": {
+"fr": "Une petite attention pour aujourd’hui.",
+"en": "A little act of care for today.",
+"ar": "لفتة اهتمام صغيرة لهذا اليوم."
+},
+"Utile au quotidien. Chaleureux, toujours.": {
+"fr": "Utile au quotidien. Chaleureux, toujours.",
+"en": "Helpful every day. Caring, always.",
+"ar": "مفيد كل يوم. ودود، دائمًا."
+},
+"Votre petite liste de soins.": {
+"fr": "Votre petite liste de soins.",
+"en": "Your little care checklist.",
+"ar": "قائمتك الصغيرة لمهام الرعاية."
+},
+"À PROPOS DE PETCARE": {
+"fr": "À PROPOS DE PetCare",
+"en": "ABOUT PetCare",
+"ar": "عن PetCare"
+}
+}

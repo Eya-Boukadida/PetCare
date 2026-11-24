@@ -1,0 +1,14 @@
+PetCare — ressources locales
+============================
+
+Les images du projet sont conservées dans public/__l5e/assets-v1/.
+Les polices utilisées par l'interface sont embarquées dans public/fonts/.
+Le favicon PetCare est disponible dans public/favicon.svg et public/favicon.ico.
+
+L'application ne charge plus Google Fonts ni de ressources visuelles depuis un CDN.
+Les noms AKC, VCA Hospitals, Purina et Cats.com restent affichés comme références
+éditoriales, sans liens externes afin que l'interface reste entièrement locale.
+
+Remarque : pour installer les dépendances du projet ou effectuer un premier build,
+le gestionnaire de paquets peut nécessiter une connexion Internet. Une fois les
+dépendances installées et le projet compilé, les ressources de l'interface sont locales.

@@ -1,0 +1,140 @@
+{
+  "care": {
+    "dogs": {
+      "title": "Big hearts need room to move.",
+      "intro": "Dogs tell us a lot through pace, posture, appetite, and play. Give their patterns a little attention and the rest gets easier.",
+      "more": "Dogs thrive with balanced food, daily movement, regular grooming, patient training, and routine health checks. For medical concerns, your veterinarian is always the right next conversation.",
+      "tips": [
+        {
+          "title": "Walks are a conversation",
+          "summary": "Let sniffing count as exercise.",
+          "detail": "A slower sniff-led walk can be rich mental work. Follow their nose for a few minutes and notice where their energy naturally settles."
+        },
+        {
+          "title": "Look at the bowl",
+          "summary": "Appetite is useful information.",
+          "detail": "Keep an eye on sudden changes in appetite or water intake. One quiet meal can happen; a pattern is worth a call to your vet."
+        },
+        {
+          "title": "Make room for rest",
+          "summary": "Rest is part of the routine.",
+          "detail": "A calm, predictable place to nap helps dogs reset. Puppies and older dogs often need more downtime than their enthusiasm suggests."
+        },
+        {
+          "title": "Practice the pause",
+          "summary": "Tiny training moments add up.",
+          "detail": "Reward a soft gaze, a wait, or a check-in during ordinary moments. Short, clear practice builds confidence without turning the day into a lesson."
+        }
+      ]
+    },
+    "cats": {
+      "title": "Small signals say a lot.",
+      "intro": "Cats are masters of the quiet update. Their appetite, litter habits, coat, and preferred hiding spots can tell a thoughtful story.",
+      "more": "Cats benefit from fresh water, thoughtful play, a clean litter area, gentle grooming, and quiet places to rest. A change that lasts is a good reason to ask your veterinarian.",
+      "tips": [
+        {
+          "title": "Keep the water moving",
+          "summary": "Fresh and easy beats fancy.",
+          "detail": "Place water away from the litter box and refresh it regularly. Some cats prefer a wide dish or a gentle fountain; watch what yours chooses."
+        },
+        {
+          "title": "Play in little bursts",
+          "summary": "Two minutes still counts.",
+          "detail": "A few short, prey-like play sessions can be more engaging than one long workout. End with a pause and let them feel successful."
+        },
+        {
+          "title": "Make hiding okay",
+          "summary": "Privacy is a comfort, not a problem.",
+          "detail": "A covered bed, open carrier, or high perch gives cats a place to decompress. Never pull them from a hiding place unless safety requires it."
+        },
+        {
+          "title": "Notice the litter box",
+          "summary": "Routine changes are worth noting.",
+          "detail": "Changes in frequency, effort, or appearance can be meaningful. Keep the box clean and contact your vet promptly if a change persists."
+        }
+      ]
+    }
+  },
+  "tasks": [
+    {
+      "id": "water",
+      "title": "Give fresh water",
+      "description": "Refresh the bowl and notice how much they drink."
+    },
+    {
+      "id": "feed",
+      "title": "Feed your pet",
+      "description": "Keep meals calm, familiar, and right for them."
+    },
+    {
+      "id": "exercise",
+      "title": "Exercise or walk",
+      "description": "A walk, a chase, a stretch, or a sunny perch."
+    },
+    {
+      "id": "bowl",
+      "title": "Clean the food bowl",
+      "description": "A quick wash keeps everyday meals fresh."
+    },
+    {
+      "id": "grooming",
+      "title": "Grooming",
+      "description": "Brush, check paws, or give a gentle hello."
+    },
+    {
+      "id": "training",
+      "title": "Training",
+      "description": "Practice one tiny cue with patience and praise."
+    },
+    {
+      "id": "health",
+      "title": "Check your pet's health",
+      "description": "Notice appetite, energy, coat, paws, and mood."
+    }
+  ],
+  "approach": [
+    "The morning reset",
+    "No perfect schedules here. Just a few useful cues, waiting for the right moment.",
+    "A simple rhythm",
+    "Pet care is less about keeping score and more about knowing your animal well enough to spot what is different. PetCare keeps the basics close so your attention can stay where it belongs."
+  ],
+  "about": [
+    "About PetCare",
+    "For every good morning.",
+    "PetCare began with a simple observation: the people who care deeply about their animals do not need more noise. They need the right reminder at the right time, and a place to keep learning without feeling judged.",
+    "So this space is intentionally small. It turns everyday care into a handful of gentle rituals, translates common questions into clear starting points, and keeps the focus on the relationship you already have.",
+    "PetCare is educational, not a substitute for veterinary care. When something feels off, trust that feeling and call your veterinarian. Knowing when to ask for help is part of being an excellent pet person."
+  ],
+  "tips": [
+    {
+      "id": "nutrition",
+      "label": "NUTRITION / 01",
+      "title": "Let their appetite be a conversation.",
+      "copy": "Keep meals consistent and notice changes in appetite, water intake, or energy. A pattern that feels unusual is worth sharing with your veterinarian."
+    },
+    {
+      "id": "exercise",
+      "label": "EXERCISE / 02",
+      "title": "Follow the kind of movement they enjoy.",
+      "copy": "A walk, a chase, a stretch, or a sunny perch can all count. Match the pace to your pet and make room for rest afterward."
+    },
+    {
+      "id": "hygiene",
+      "label": "HYGIENE / 03",
+      "title": "Small checks keep comfort close.",
+      "copy": "Look at their coat, paws, ears, teeth, and litter or bathroom habits. Gentle, regular care helps you notice changes early."
+    },
+    {
+      "id": "training",
+      "label": "TRAINING / 04",
+      "title": "Reward the behavior you want to see again.",
+      "copy": "Keep practice short and clear. A calm check-in, a wait, or a good recall is worth celebrating with a favorite reward."
+    },
+    {
+      "id": "safety",
+      "label": "SAFETY / 05",
+      "title": "Make the safe choice the easy choice.",
+      "copy": "Keep medicines, toxic foods, small objects, and open windows out of reach. When you are unsure, ask your veterinarian what to avoid."
+    }
+  ]
+}
