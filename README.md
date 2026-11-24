@@ -69,16 +69,39 @@ Le choix de langue est mémorisé sur l'appareil de l'utilisateur.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Architecture & Technologies
 
-| Domaine | Technologies |
-|---|---|
-| **Frontend Framework** | [React 19](https://react.dev/) + [TypeScript 5](https://www.typescriptlang.org/) |
-| **Routing & SSR** | [TanStack Router](https://tanstack.com/router) & [TanStack Start](https://tanstack.com/start) |
-| **Build & Tooling** | [Vite 8](https://vitejs.dev/) & [Bun](https://bun.sh/) |
-| **Styles & UI** | [Tailwind CSS v4](https://tailwindcss.com/) + [Radix UI](https://www.radix-ui.com/) + [Lucide Icons](https://lucide.dev/) |
-| **Formulaires & Validation** | [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) |
-| **Tests** | [Vitest](https://vitest.dev/) + [Testing Library](https://testing-library.com/) |
+L'application repose sur une architecture moderne **Full-Stack React** organisée en trois piliers :
+
+### 🎨 1. Front-End (Interface Utilisateur)
+- **Framework & Langage** : [React 19](https://react.dev/) & [TypeScript 5.8](https://www.typescriptlang.org/) — Interface réactive, composants modulaires et typage statique strict.
+- **Routage & Navigation** : [TanStack Router](https://tanstack.com/router) — Routage déclaratif et navigation fluide sans rechargement de page (SPA).
+- **Styles & Responsive Design** : [Tailwind CSS v4](https://tailwindcss.com/) — Design sur mesure adapté aux ordinateurs, tablettes et mobiles.
+- **Composants d'Interface UI** : [Radix UI](https://www.radix-ui.com/) & [Shadcn UI](https://ui.shadcn.com/) — Composants accessibles et interactifs (modales, onglets, accordéons, menus déroulants, barres de progression).
+- **Formulaires & Validation** : [React Hook Form](https://react-hook-form.com/) associé à [Zod](https://zod.dev/) pour le contrôle et la validation stricte des données.
+- **Icônes** : [Lucide Icons](https://lucide.dev/) — Bibliothèque d'icônes vectorielles légères et modernes.
+- **Support Multilingue (i18n)** : Internationalisation trilingue intégrée (**Français**, **Anglais**, **Arabe** avec prise en charge native du sens d'écriture **RTL**).
+
+### ⚙️ 2. Back-End (Serveur & Moteur d'Exécution)
+- **Architecture** : **Full-Stack React avec Server-Side Rendering (SSR)**.
+- **Moteur Serveur SSR** : [TanStack Start](https://tanstack.com/start) propulsé par le moteur de serveur [Nitro](https://nitro.unjs.io/) (ultra-léger, rapide, compatible Node.js et Cloudflare Workers / Edge).
+- **Gestionnaire HTTP** : Framework **H3** pour la gestion optimisée des requêtes HTTP et des réponses d'erreur normalisées.
+- **Environnement d'Exécution (Runtime)** : [Node.js](https://nodejs.org/) (v22+) ou [Bun](https://bun.sh/) pour l'exécution, le développement et le build du projet.
+- **Outil de Build & Bundler** : [Vite 8](https://vitejs.dev/) avec rechargement à chaud instantané (*Hot Module Replacement - HMR*).
+
+### 💾 3. Base de Données & Stockage (Database / Storage)
+- **Type d'Architecture** : **Architecture « Local-First » (Client-Side Storage)** — Zéro dépendance de base de données externe lourde.
+- **Moteur de Stockage** : **Web Storage API — LocalStorage** intégré directement dans le navigateur du client via le hook personnalisé `useLocalState`.
+- **Modèle de Données** : Format **JSON NoSQL (Clé / Valeur)** sérialisé.
+- **Données Persistées** :
+  - Fiche profil personnalisée de l'animal (Nom, Âge, Poids, Espèce...).
+  - Progression en direct des 13 programmes d'entraînement (validation des 64 étapes).
+  - Checklist quotidienne des soins (repas, promenades, brossage, médicaments...).
+  - Préférence de la langue choisie par l'utilisateur.
+- **Avantages de cette Architecture** :
+  - **100% Hors-Ligne & Rapide** : Aucune dépendance réseau pour lire ou écrire les données utilisateur.
+  - **Confidentialité Totale (Privacy-First)** : Toutes les données personnelles restent sur l'appareil du propriétaire de l'animal.
+  - **Simplicité & Zéro Maintenance** : Aucun serveur SQL/NoSQL distant à configurer ou administrer.
 
 ---
 
